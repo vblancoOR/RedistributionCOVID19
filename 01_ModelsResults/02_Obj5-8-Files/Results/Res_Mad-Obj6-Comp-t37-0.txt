@@ -1,0 +1,21 @@
+Period 37 	 [146, 117] 1.00 days. [2] R: 0
+	 Repartido Periodo 37: 2.000000
+	 Repartido Periodo 38: 0.000000
+	 Repartido Periodo 39: 0.000000
+	 Repartido Periodo 40: 0.000000
+Scenario 0
+	 Demandas Periodo 37: 1300.000000 [0]
+	 Demandas Periodo 38: 1244.000000 [0]
+	 Demandas Periodo 39: 1201.000000 [0]
+	 Demandas Periodo 40: 1155.000000 [205]
+Scenario 1
+	 Demandas Periodo 37: 1671.000000 [0]
+	 Demandas Periodo 38: 1596.000000 [0]
+	 Demandas Periodo 39: 1538.000000 [0]
+	 Demandas Periodo 40: 1491.000000 [205]
+Scenario 2
+	 Demandas Periodo 37: 1009.000000 [0]
+	 Demandas Periodo 38: 968.000000 [0]
+	 Demandas Periodo 39: 943.000000 [0]
+	 Demandas Periodo 40: 904.000000 [205]
+ObjVal: 0.000000 Time: 3.864936 GAP: 0.000000

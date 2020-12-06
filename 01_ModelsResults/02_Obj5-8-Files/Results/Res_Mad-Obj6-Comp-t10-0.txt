@@ -1,0 +1,34 @@
+Period 10 	 [106, 118] 1.07 days. [1] R: 0
+Period 10 	 [145, 118] 1.02 days. [1] R: 0
+Period 10 	 [151, 118] 1.01 days. [2] R: 0
+Period 10 	 [153, 118] 1.01 days. [1] R: 0
+Period 10 	 [155, 117] 1.02 days. [2] R: 0
+Period 11 	 [137, 117] 1.01 days. [3] R: 0
+Period 11 	 [139, 117] 1.01 days. [1] R: 0
+Period 11 	 [142, 117] 1.00 days. [1] R: 0
+Period 11 	 [142, 119] 1.01 days. [1] R: 0
+Period 11 	 [144, 118] 1.01 days. [1] R: 0
+Period 11 	 [146, 117] 1.00 days. [1] R: 0
+Period 11 	 [148, 118] 1.01 days. [1] R: 0
+Period 11 	 [149, 118] 1.01 days. [1] R: 0
+Period 11 	 [152, 118] 1.01 days. [1] R: 0
+	 Repartido Periodo 10: 7.000000
+	 Repartido Periodo 11: 11.000000
+	 Repartido Periodo 12: 0.000000
+	 Repartido Periodo 13: 0.000000
+Scenario 0
+	 Demandas Periodo 10: 496.000000 [0]
+	 Demandas Periodo 11: 596.000000 [0]
+	 Demandas Periodo 12: 680.000000 [0]
+	 Demandas Periodo 13: 768.000000 [0]
+Scenario 1
+	 Demandas Periodo 10: 656.000000 [0]
+	 Demandas Periodo 11: 774.000000 [0]
+	 Demandas Periodo 12: 883.000000 [0]
+	 Demandas Periodo 13: 999.000000 [0]
+Scenario 2
+	 Demandas Periodo 10: 403.000000 [0]
+	 Demandas Periodo 11: 476.000000 [0]
+	 Demandas Periodo 12: 540.000000 [0]
+	 Demandas Periodo 13: 606.000000 [0]
+ObjVal: 6.000000 Time: 4.942351 GAP: 0.000000

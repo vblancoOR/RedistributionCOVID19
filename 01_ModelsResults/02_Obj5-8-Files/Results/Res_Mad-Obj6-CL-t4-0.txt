@@ -1,0 +1,80 @@
+Period 4 	 [116, 126] 0.13 days. [2] R: 0
+Period 4 	 [116, 127] 0.15 days. [3] R: 0
+Period 4 	 [116, 131] 0.12 days. [1] R: 0
+Period 4 	 [114, 116, 111] 0.17 days. [1] R: 0
+Period 4 	 [114, 116, 115] 0.15 days. [3] R: 0
+Period 4 	 [118, 116, 128] 0.16 days. [11] R: 0
+Period 4 	 [118, 116, 129] 0.17 days. [1] R: 0
+Period 4 	 [119, 116, 106] 0.17 days. [9] R: 0
+Period 4 	 [119, 116, 109] 0.17 days. [1] R: 0
+Period 4 	 [119, 116, 120] 0.12 days. [1] R: 0
+Period 4 	 [119, 116, 125] 0.13 days. [2] R: 0
+Period 4 	 [134, 116, 107] 0.17 days. [1] R: 0
+Period 4 	 [136, 116, 110] 0.18 days. [1] R: 0
+Period 4 	 [136, 116, 117] 0.12 days. [3] R: 0
+Period 4 	 [137, 116, 133] 0.16 days. [2] R: 0
+Period 4 	 [139, 116, 124] 0.12 days. [4] R: 0
+Period 4 	 [142, 116, 121] 0.11 days. [1] R: 0
+Period 4 	 [143, 116, 115] 0.14 days. [2] R: 0
+Period 4 	 [143, 116, 132] 0.17 days. [1] R: 0
+Period 4 	 [144, 116, 152] 0.12 days. [1] R: 0
+Period 4 	 [145, 116, 156] 0.15 days. [2] R: 0
+Period 4 	 [146, 116, 121] 0.11 days. [2] R: 0
+Period 4 	 [148, 116, 112] 0.15 days. [3] R: 0
+Period 4 	 [149, 116] 0.11 days. [3] R: 0
+Period 4 	 [149, 116, 122] 0.11 days. [4] R: 0
+Period 4 	 [150, 116, 124] 0.13 days. [3] R: 0
+Period 4 	 [151, 116, 113] 0.14 days. [2] R: 0
+Period 4 	 [151, 116, 122] 0.11 days. [1] R: 0
+Period 4 	 [151, 116, 123] 0.12 days. [4] R: 0
+Period 4 	 [153, 116, 117] 0.11 days. [2] R: 0
+Period 5 	 [106, 116, 126] 0.20 days. [11] R: 9
+Period 5 	 [109, 116, 143] 0.17 days. [1] R: 1
+Period 5 	 [119, 116, 118] 0.13 days. [11] R: 0
+Period 5 	 [119, 116, 155] 0.13 days. [3] R: 0
+Period 5 	 [123, 116, 114] 0.15 days. [1] R: 4
+Period 5 	 [131, 116, 112] 0.17 days. [1] R: 1
+Period 5 	 [137, 116] 0.11 days. [10] R: 0
+Period 5 	 [137, 116, 115] 0.13 days. [1] R: 0
+Period 5 	 [137, 116, 146] 0.11 days. [2] R: 0
+Period 5 	 [137, 116, 148] 0.12 days. [19] R: 0
+Period 5 	 [137, 116, 149] 0.12 days. [1] R: 0
+Period 5 	 [152, 116, 113] 0.14 days. [2] R: 1
+Period 6 	 [116, 107] 0.14 days. [1] R: 13
+Period 6 	 [116, 121] 0.11 days. [4] R: 13
+Period 6 	 [116, 123] 0.11 days. [1] R: 13
+Period 6 	 [116, 127] 0.15 days. [1] R: 13
+Period 6 	 [118, 116, 109] 0.17 days. [2] R: 11
+Period 6 	 [128, 116, 107] 0.18 days. [1] R: 11
+Period 6 	 [128, 116, 112] 0.19 days. [1] R: 11
+Period 6 	 [128, 116, 113] 0.18 days. [1] R: 11
+Period 6 	 [128, 116, 114] 0.18 days. [3] R: 11
+Period 6 	 [128, 116, 150] 0.16 days. [1] R: 11
+Period 6 	 [135, 116, 122] 0.16 days. [2] R: 0
+Period 6 	 [137, 116, 126] 0.14 days. [2] R: 0
+Period 6 	 [141, 116, 124] 0.12 days. [1] R: 0
+Period 6 	 [144, 116, 131] 0.13 days. [1] R: 0
+Period 6 	 [155, 116, 117] 0.12 days. [4] R: 3
+Period 6 	 [155, 116, 130] 0.21 days. [1] R: 3
+Period 6 	 [156, 116, 108] 0.23 days. [1] R: 2
+Period 6 	 [156, 116, 111] 0.18 days. [1] R: 2
+	 Repartido Periodo 4: 77.000000
+	 Repartido Periodo 5: 63.000000
+	 Repartido Periodo 6: 29.000000
+	 Repartido Periodo 7: 0.000000
+Scenario 0
+	 Demandas Periodo 4: 133.000000 [0]
+	 Demandas Periodo 5: 180.000000 [0]
+	 Demandas Periodo 6: 180.000000 [0]
+	 Demandas Periodo 7: 255.000000 [0]
+Scenario 1
+	 Demandas Periodo 4: 188.000000 [0]
+	 Demandas Periodo 5: 244.000000 [0]
+	 Demandas Periodo 6: 253.000000 [0]
+	 Demandas Periodo 7: 347.000000 [0]
+Scenario 2
+	 Demandas Periodo 4: 129.000000 [0]
+	 Demandas Periodo 5: 153.000000 [0]
+	 Demandas Periodo 6: 158.000000 [0]
+	 Demandas Periodo 7: 217.000000 [0]
+ObjVal: -6.000000 Time: 29.786731 GAP: 0.000000

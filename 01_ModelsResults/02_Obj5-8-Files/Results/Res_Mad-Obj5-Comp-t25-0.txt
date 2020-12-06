@@ -1,0 +1,23 @@
+Period 25 	 [145, 114] 1.04 days. [1] R: 0
+Period 26 	 [141, 114] 1.03 days. [0] R: 0
+Period 26 	 [150, 123] 1.03 days. [2] R: 0
+	 Repartido Periodo 25: 1.000000
+	 Repartido Periodo 26: 3.000000
+	 Repartido Periodo 27: 0.000000
+	 Repartido Periodo 28: 0.000000
+Scenario 0
+	 Demandas Periodo 25: 1528.000000 [0]
+	 Demandas Periodo 26: 1501.000000 [0]
+	 Demandas Periodo 27: 1500.000000 [9]
+	 Demandas Periodo 28: 1500.000000 [0]
+Scenario 1
+	 Demandas Periodo 25: 1960.000000 [0]
+	 Demandas Periodo 26: 1927.000000 [0]
+	 Demandas Periodo 27: 1929.000000 [9]
+	 Demandas Periodo 28: 1926.000000 [0]
+Scenario 2
+	 Demandas Periodo 25: 1187.000000 [0]
+	 Demandas Periodo 26: 1166.000000 [0]
+	 Demandas Periodo 27: 1162.000000 [9]
+	 Demandas Periodo 28: 1161.000000 [0]
+ObjVal: 11.999999 Time: 4.328776 GAP: 0.000000

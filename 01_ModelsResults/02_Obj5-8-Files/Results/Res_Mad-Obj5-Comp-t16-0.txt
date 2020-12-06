@@ -1,0 +1,30 @@
+Period 16 	 [134, 109] 1.08 days. [0] R: 0
+Period 16 	 [136, 106] 1.05 days. [0] R: 0
+Period 16 	 [136, 114] 1.04 days. [1] R: 0
+Period 16 	 [138, 114] 1.03 days. [1] R: 0
+Period 16 	 [144, 119] 1.00 days. [1] R: 0
+Period 16 	 [149, 121] 1.00 days. [1] R: 0
+Period 16 	 [153, 119] 1.00 days. [4] R: 0
+Period 17 	 [135, 125] 1.07 days. [1] R: 0
+Period 17 	 [152, 120] 1.00 days. [1] R: 0
+Period 17 	 [153, 119] 1.00 days. [0] R: 0
+	 Repartido Periodo 16: 10.000000
+	 Repartido Periodo 17: 3.000000
+	 Repartido Periodo 18: 0.000000
+	 Repartido Periodo 19: 0.000000
+Scenario 0
+	 Demandas Periodo 16: 1048.000000 [351]
+	 Demandas Periodo 17: 1152.000000 [0]
+	 Demandas Periodo 18: 1220.000000 [0]
+	 Demandas Periodo 19: 1306.000000 [0]
+Scenario 1
+	 Demandas Periodo 16: 1354.000000 [351]
+	 Demandas Periodo 17: 1480.000000 [0]
+	 Demandas Periodo 18: 1566.000000 [0]
+	 Demandas Periodo 19: 1680.000000 [0]
+Scenario 2
+	 Demandas Periodo 16: 812.000000 [351]
+	 Demandas Periodo 17: 902.000000 [0]
+	 Demandas Periodo 18: 943.000000 [0]
+	 Demandas Periodo 19: 1010.000000 [0]
+ObjVal: 14.000000 Time: 25.338740 GAP: 0.000000

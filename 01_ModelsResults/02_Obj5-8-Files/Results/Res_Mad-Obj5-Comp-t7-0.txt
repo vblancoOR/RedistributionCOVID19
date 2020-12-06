@@ -1,0 +1,65 @@
+Period 7 	 [108, 118] 1.06 days. [3] R: 0
+Period 7 	 [109, 126] 1.08 days. [3] R: 0
+Period 7 	 [110, 123] 1.06 days. [2] R: 0
+Period 7 	 [116, 117] 1.00 days. [1] R: 0
+Period 7 	 [120, 113] 1.02 days. [2] R: 0
+Period 7 	 [120, 121] 1.00 days. [2] R: 0
+Period 7 	 [125, 114] 1.03 days. [2] R: 0
+Period 7 	 [129, 107] 1.03 days. [2] R: 0
+Period 7 	 [130, 115] 1.08 days. [5] R: 0
+Period 7 	 [131, 107] 1.06 days. [2] R: 0
+Period 7 	 [133, 113] 1.02 days. [1] R: 0
+Period 7 	 [134, 117] 1.03 days. [4] R: 0
+Period 7 	 [134, 118] 1.03 days. [1] R: 0
+Period 7 	 [135, 106] 1.12 days. [4] R: 0
+Period 7 	 [136, 122] 1.02 days. [4] R: 0
+Period 7 	 [137, 118] 1.01 days. [2] R: 0
+Period 7 	 [137, 119] 1.00 days. [3] R: 0
+Period 7 	 [138, 116] 1.00 days. [5] R: 0
+Period 7 	 [139, 128] 1.04 days. [5] R: 0
+Period 7 	 [140, 118] 1.02 days. [3] R: 0
+Period 7 	 [140, 132] 1.04 days. [1] R: 0
+Period 7 	 [141, 124] 1.00 days. [4] R: 0
+Period 7 	 [142, 117] 1.00 days. [4] R: 0
+Period 7 	 [143, 118] 1.02 days. [5] R: 0
+Period 7 	 [144, 119] 1.00 days. [4] R: 0
+Period 7 	 [145, 123] 1.01 days. [3] R: 0
+Period 7 	 [146, 116] 1.00 days. [1] R: 0
+Period 7 	 [146, 117] 1.00 days. [3] R: 0
+Period 7 	 [147, 107] 1.03 days. [1] R: 0
+Period 7 	 [147, 122] 1.02 days. [4] R: 0
+Period 7 	 [148, 124] 1.00 days. [2] R: 0
+Period 7 	 [148, 126] 1.04 days. [2] R: 0
+Period 7 	 [149, 121] 1.00 days. [4] R: 0
+Period 7 	 [150, 107] 1.03 days. [3] R: 0
+Period 7 	 [151, 119] 1.00 days. [3] R: 0
+Period 7 	 [151, 122] 1.01 days. [1] R: 0
+Period 7 	 [152, 121] 1.00 days. [2] R: 0
+Period 7 	 [152, 124] 1.00 days. [2] R: 0
+Period 7 	 [153, 119] 1.00 days. [3] R: 0
+Period 7 	 [154, 118] 1.03 days. [1] R: 0
+Period 7 	 [154, 127] 1.00 days. [3] R: 0
+Period 7 	 [155, 112] 1.02 days. [2] R: 0
+Period 7 	 [155, 123] 1.03 days. [2] R: 0
+Period 7 	 [156, 118] 1.06 days. [2] R: 0
+Period 7 	 [156, 123] 1.05 days. [3] R: 0
+	 Repartido Periodo 7: 121.000000
+	 Repartido Periodo 8: 0.000000
+	 Repartido Periodo 9: 0.000000
+	 Repartido Periodo 10: 0.000000
+Scenario 0
+	 Demandas Periodo 7: 255.000000 [0]
+	 Demandas Periodo 8: 255.000000 [0]
+	 Demandas Periodo 9: 341.000000 [0]
+	 Demandas Periodo 10: 496.000000 [0]
+Scenario 1
+	 Demandas Periodo 7: 347.000000 [0]
+	 Demandas Periodo 8: 339.000000 [0]
+	 Demandas Periodo 9: 444.000000 [0]
+	 Demandas Periodo 10: 656.000000 [0]
+Scenario 2
+	 Demandas Periodo 7: 217.000000 [0]
+	 Demandas Periodo 8: 221.000000 [0]
+	 Demandas Periodo 9: 286.000000 [0]
+	 Demandas Periodo 10: 403.000000 [0]
+ObjVal: -10.000000 Time: 14.782658 GAP: 0.000000

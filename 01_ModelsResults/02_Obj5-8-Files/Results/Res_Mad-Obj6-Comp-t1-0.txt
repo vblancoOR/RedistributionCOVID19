@@ -1,0 +1,21 @@
+Period 1 	 [156, 135] 1.03 days. [1] R: 0
+	 Repartido Periodo 1: 1.000000
+	 Repartido Periodo 2: 0.000000
+	 Repartido Periodo 3: 0.000000
+	 Repartido Periodo 4: 0.000000
+Scenario 0
+	 Demandas Periodo 1: 55.000000 [0]
+	 Demandas Periodo 2: 80.000000 [0]
+	 Demandas Periodo 3: 100.000000 [0]
+	 Demandas Periodo 4: 133.000000 [0]
+Scenario 1
+	 Demandas Periodo 1: 89.000000 [0]
+	 Demandas Periodo 2: 123.000000 [0]
+	 Demandas Periodo 3: 151.000000 [0]
+	 Demandas Periodo 4: 188.000000 [0]
+Scenario 2
+	 Demandas Periodo 1: 68.000000 [0]
+	 Demandas Periodo 2: 79.000000 [0]
+	 Demandas Periodo 3: 103.000000 [0]
+	 Demandas Periodo 4: 129.000000 [0]
+ObjVal: -2.000000 Time: 9.469380 GAP: 0.000000

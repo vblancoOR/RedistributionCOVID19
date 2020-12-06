@@ -1,0 +1,83 @@
+Period 43 	 [106, 116, 138] 0.17 days. [1] R: 0
+Period 43 	 [106, 116, 147] 0.18 days. [0] R: 0
+Period 43 	 [106, 116, 155] 0.19 days. [1] R: 0
+Period 43 	 [107, 116, 108] 0.22 days. [1] R: 0
+Period 43 	 [107, 116, 147] 0.16 days. [1] R: 0
+Period 43 	 [107, 116, 152] 0.15 days. [1] R: 0
+Period 43 	 [110, 116, 136] 0.18 days. [1] R: 0
+Period 43 	 [111, 116, 120] 0.14 days. [1] R: 0
+Period 43 	 [112, 116, 109] 0.20 days. [1] R: 0
+Period 43 	 [112, 116, 133] 0.20 days. [2] R: 0
+Period 43 	 [113, 116, 137] 0.14 days. [2] R: 0
+Period 43 	 [113, 116, 138] 0.14 days. [1] R: 0
+Period 43 	 [113, 116, 142] 0.14 days. [1] R: 0
+Period 43 	 [113, 116, 147] 0.15 days. [1] R: 0
+Period 43 	 [114, 116, 136] 0.15 days. [1] R: 0
+Period 43 	 [115, 116, 125] 0.14 days. [1] R: 0
+Period 43 	 [115, 116, 136] 0.14 days. [1] R: 0
+Period 43 	 [115, 116, 143] 0.14 days. [1] R: 0
+Period 43 	 [117, 116, 149] 0.11 days. [1] R: 0
+Period 43 	 [117, 116, 155] 0.12 days. [1] R: 0
+Period 43 	 [118, 116, 148] 0.13 days. [3] R: 0
+Period 43 	 [119, 116, 129] 0.16 days. [1] R: 0
+Period 43 	 [119, 116, 154] 0.16 days. [2] R: 0
+Period 43 	 [121, 116, 108] 0.19 days. [2] R: 0
+Period 43 	 [121, 116, 145] 0.12 days. [1] R: 0
+Period 43 	 [122, 116, 108] 0.18 days. [1] R: 0
+Period 43 	 [122, 116, 153] 0.11 days. [2] R: 0
+Period 43 	 [123, 116, 139] 0.12 days. [1] R: 0
+Period 43 	 [123, 116, 150] 0.13 days. [1] R: 0
+Period 43 	 [123, 116, 151] 0.12 days. [1] R: 0
+Period 43 	 [124, 116, 130] 0.20 days. [2] R: 0
+Period 43 	 [124, 116, 144] 0.12 days. [1] R: 0
+Period 43 	 [126, 116, 131] 0.16 days. [3] R: 0
+Period 43 	 [127, 116, 141] 0.16 days. [1] R: 0
+Period 43 	 [127, 116, 143] 0.16 days. [1] R: 0
+Period 43 	 [128, 116, 142] 0.15 days. [1] R: 0
+Period 43 	 [128, 116, 152] 0.15 days. [1] R: 0
+Period 43 	 [134, 116, 130] 0.22 days. [1] R: 0
+Period 43 	 [134, 116, 154] 0.18 days. [1] R: 0
+Period 43 	 [140, 116, 150] 0.12 days. [1] R: 0
+Period 43 	 [146, 116, 135] 0.16 days. [1] R: 0
+Period 43 	 [146, 116, 156] 0.15 days. [1] R: 0
+Period 44 	 [108, 116, 156] 0.23 days. [2] R: 4
+Period 44 	 [117, 116, 111] 0.13 days. [1] R: 0
+Period 44 	 [117, 116, 112] 0.15 days. [0] R: 0
+Period 44 	 [117, 116, 134] 0.13 days. [2] R: 0
+Period 44 	 [118, 116, 111] 0.15 days. [1] R: 0
+Period 44 	 [118, 116, 113] 0.15 days. [1] R: 0
+Period 44 	 [118, 116, 144] 0.13 days. [2] R: 0
+Period 44 	 [119, 116, 107] 0.15 days. [1] R: 0
+Period 44 	 [119, 116, 110] 0.18 days. [1] R: 0
+Period 44 	 [119, 116, 134] 0.14 days. [2] R: 0
+Period 44 	 [121, 116, 128] 0.15 days. [1] R: 0
+Period 44 	 [124, 116, 134] 0.14 days. [2] R: 0
+Period 44 	 [130, 116] 0.19 days. [1] R: 3
+Period 44 	 [131, 116, 156] 0.17 days. [2] R: 3
+Period 44 	 [143, 116, 154] 0.16 days. [1] R: 2
+Period 44 	 [148, 116, 120] 0.12 days. [1] R: 3
+Period 45 	 [118, 116, 109] 0.17 days. [2] R: 0
+Period 45 	 [118, 116, 144] 0.13 days. [1] R: 0
+Period 45 	 [134, 116, 110] 0.20 days. [1] R: 6
+Period 45 	 [154, 116, 111] 0.18 days. [1] R: 4
+Period 45 	 [156, 116] 0.15 days. [4] R: 5
+	 Repartido Periodo 43: 53.000000
+	 Repartido Periodo 44: 22.000000
+	 Repartido Periodo 45: 9.000000
+	 Repartido Periodo 46: 0.000000
+Scenario 0
+	 Demandas Periodo 43: 1106.000000 [0]
+	 Demandas Periodo 44: 1080.000000 [0]
+	 Demandas Periodo 45: 1020.000000 [0]
+	 Demandas Periodo 46: 980.000000 [0]
+Scenario 1
+	 Demandas Periodo 43: 1426.000000 [0]
+	 Demandas Periodo 44: 1390.000000 [0]
+	 Demandas Periodo 45: 1319.000000 [0]
+	 Demandas Periodo 46: 1265.000000 [0]
+Scenario 2
+	 Demandas Periodo 43: 864.000000 [0]
+	 Demandas Periodo 44: 840.000000 [0]
+	 Demandas Periodo 45: 795.000000 [0]
+	 Demandas Periodo 46: 757.000000 [0]
+ObjVal: -18.000000 Time: 95.931411 GAP: 0.000000

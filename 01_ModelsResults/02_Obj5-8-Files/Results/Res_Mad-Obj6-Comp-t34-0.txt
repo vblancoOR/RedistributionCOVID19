@@ -1,0 +1,20 @@
+	 Repartido Periodo 34: 0.000000
+	 Repartido Periodo 35: 0.000000
+	 Repartido Periodo 36: 0.000000
+	 Repartido Periodo 37: 0.000000
+Scenario 0
+	 Demandas Periodo 34: 1380.000000 [0]
+	 Demandas Periodo 35: 1332.000000 [0]
+	 Demandas Periodo 36: 1328.000000 [0]
+	 Demandas Periodo 37: 1300.000000 [0]
+Scenario 1
+	 Demandas Periodo 34: 1774.000000 [0]
+	 Demandas Periodo 35: 1708.000000 [0]
+	 Demandas Periodo 36: 1709.000000 [0]
+	 Demandas Periodo 37: 1671.000000 [0]
+Scenario 2
+	 Demandas Periodo 34: 1071.000000 [0]
+	 Demandas Periodo 35: 1031.000000 [0]
+	 Demandas Periodo 36: 1032.000000 [0]
+	 Demandas Periodo 37: 1009.000000 [0]
+ObjVal: 0.000000 Time: 3.809073 GAP: 0.000000

@@ -1,0 +1,97 @@
+Period 46 	 [106, 151] 1.07 days. [3] R: 0
+Period 46 	 [107, 145] 1.04 days. [1] R: 0
+Period 46 	 [111, 151] 1.04 days. [1] R: 0
+Period 46 	 [112, 140] 1.04 days. [1] R: 0
+Period 46 	 [112, 152] 1.04 days. [2] R: 0
+Period 46 	 [115, 153, 116] 1.02 days. [3] R: 0
+Period 46 	 [115, 139] 1.02 days. [2] R: 0
+Period 46 	 [116, 153] 1.01 days. [1] R: 0
+Period 46 	 [117, 110] 1.07 days. [1] R: 0
+Period 46 	 [117, 120] 1.01 days. [5] R: 0
+Period 46 	 [117, 122] 1.00 days. [1] R: 0
+Period 46 	 [117, 152] 1.01 days. [1] R: 0
+Period 46 	 [118, 109] 1.05 days. [1] R: 0
+Period 46 	 [118, 113] 1.02 days. [1] R: 0
+Period 46 	 [118, 147] 1.02 days. [1] R: 0
+Period 46 	 [119, 110] 1.07 days. [1] R: 0
+Period 46 	 [119, 133] 1.05 days. [1] R: 0
+Period 46 	 [119, 155] 1.01 days. [1] R: 0
+Period 46 	 [121, 122] 1.01 days. [1] R: 0
+Period 46 	 [121, 133] 1.04 days. [1] R: 0
+Period 46 	 [121, 145] 1.01 days. [0] R: 0
+Period 46 	 [121, 150] 1.01 days. [1] R: 0
+Period 46 	 [123, 126] 1.04 days. [1] R: 0
+Period 46 	 [124, 152, 122] 1.01 days. [1] R: 0
+Period 46 	 [124, 141] 1.00 days. [1] R: 0
+Period 46 	 [124, 148] 1.00 days. [2] R: 0
+Period 46 	 [124, 149] 1.01 days. [1] R: 0
+Period 46 	 [124, 153] 1.01 days. [2] R: 0
+Period 46 	 [125, 150] 1.02 days. [3] R: 0
+Period 46 	 [128, 140] 1.05 days. [1] R: 0
+Period 46 	 [129, 154] 1.02 days. [1] R: 0
+Period 46 	 [131, 134] 1.05 days. [1] R: 0
+Period 46 	 [131, 140] 1.02 days. [1] R: 0
+Period 46 	 [131, 145] 1.02 days. [1] R: 0
+Period 46 	 [132, 147] 1.06 days. [1] R: 0
+Period 46 	 [137, 151] 1.00 days. [1] R: 0
+Period 46 	 [138, 147] 1.02 days. [1] R: 0
+Period 46 	 [142, 134] 1.03 days. [1] R: 0
+Period 46 	 [142, 136] 1.02 days. [1] R: 0
+Period 46 	 [143, 147] 1.00 days. [1] R: 0
+Period 46 	 [144, 114] 1.02 days. [1] R: 0
+Period 46 	 [144, 127] 1.04 days. [1] R: 0
+Period 46 	 [144, 133] 1.04 days. [1] R: 0
+Period 46 	 [146, 108] 1.08 days. [1] R: 0
+Period 46 	 [146, 116] 1.00 days. [2] R: 0
+Period 46 	 [146, 136] 1.01 days. [1] R: 0
+Period 47 	 [106, 113] 1.08 days. [1] R: 0
+Period 47 	 [107, 115] 1.02 days. [1] R: 0
+Period 47 	 [107, 129] 1.03 days. [1] R: 0
+Period 47 	 [109, 140] 1.05 days. [1] R: 0
+Period 47 	 [110, 141] 1.07 days. [1] R: 0
+Period 47 	 [110, 149] 1.07 days. [1] R: 0
+Period 47 	 [110, 155] 1.06 days. [1] R: 0
+Period 47 	 [111, 137] 1.04 days. [1] R: 0
+Period 47 	 [112, 131] 1.07 days. [3] R: 0
+Period 47 	 [116, 146] 1.00 days. [8] R: 2
+Period 47 	 [118, 137] 1.01 days. [3] R: 0
+Period 47 	 [118, 142] 1.02 days. [7] R: 0
+Period 47 	 [118, 149] 1.01 days. [1] R: 0
+Period 47 	 [119, 144] 1.00 days. [2] R: 0
+Period 47 	 [120, 124] 1.00 days. [1] R: 0
+Period 47 	 [120, 143] 1.02 days. [1] R: 0
+Period 47 	 [120, 144] 1.01 days. [1] R: 0
+Period 47 	 [121, 138] 1.01 days. [3] R: 0
+Period 47 	 [122, 117] 1.00 days. [1] R: 1
+Period 47 	 [122, 139] 1.01 days. [1] R: 1
+Period 47 	 [122, 142] 1.00 days. [1] R: 1
+Period 47 	 [122, 149] 1.01 days. [1] R: 1
+Period 47 	 [126, 132] 1.08 days. [1] R: 0
+Period 47 	 [127, 125] 1.05 days. [1] R: 0
+Period 47 	 [127, 137] 1.04 days. [1] R: 0
+Period 47 	 [128, 132] 1.09 days. [1] R: 0
+Period 47 	 [128, 156] 1.05 days. [1] R: 0
+Period 47 	 [134, 125] 1.04 days. [1] R: 0
+Period 47 	 [147, 143] 1.00 days. [1] R: 1
+Period 47 	 [151, 144] 1.00 days. [2] R: 1
+Period 47 	 [154, 143] 1.03 days. [0] R: 0
+	 Repartido Periodo 46: 64.000000
+	 Repartido Periodo 47: 56.000000
+	 Repartido Periodo 48: 0.000000
+	 Repartido Periodo 49: 0.000000
+Scenario 0
+	 Demandas Periodo 46: 980.000000 [0]
+	 Demandas Periodo 47: 945.000000 [0]
+	 Demandas Periodo 48: 897.000000 [0]
+	 Demandas Periodo 49: 872.000000 [0]
+Scenario 1
+	 Demandas Periodo 46: 1265.000000 [0]
+	 Demandas Periodo 47: 1220.000000 [0]
+	 Demandas Periodo 48: 1166.000000 [0]
+	 Demandas Periodo 49: 1131.000000 [0]
+Scenario 2
+	 Demandas Periodo 46: 757.000000 [0]
+	 Demandas Periodo 47: 739.000000 [0]
+	 Demandas Periodo 48: 702.000000 [0]
+	 Demandas Periodo 49: 685.000000 [0]
+ObjVal: -22.000000 Time: 14.278475 GAP: 0.000000

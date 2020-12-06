@@ -1,0 +1,79 @@
+Period 31 	 [57, 2, 3] 0.18 days. [1] R: 0
+Period 31 	 [7, 6] 0.14 days. [20] R: 0
+Period 31 	 [7, 6, 5] 0.32 days. [1] R: 0
+Period 31 	 [7, 6, 33, 12] 0.86 days. [1] R: 0
+Period 31 	 [7, 6, 33, 19, 18] 0.87 days. [3] R: 0
+Period 31 	 [7, 6, 33, 37, 38] 0.83 days. [4] R: 0
+Period 31 	 [7, 6, 33, 37, 41] 0.82 days. [1] R: 0
+Period 31 	 [7, 6, 33, 37, 92] 0.84 days. [1] R: 0
+Period 31 	 [64, 6, 33, 49, 53] 0.98 days. [1] R: 0
+Period 31 	 [66, 6, 33, 49, 53] 0.98 days. [1] R: 0
+Period 31 	 [70, 12, 33, 49, 48] 0.92 days. [1] R: 0
+Period 31 	 [70, 12, 33, 49, 53] 0.76 days. [7] R: 0
+Period 31 	 [71, 12, 33, 49, 102] 0.76 days. [1] R: 0
+Period 31 	 [19, 74] 0.10 days. [3] R: 0
+Period 31 	 [20, 19, 22] 0.27 days. [2] R: 0
+Period 31 	 [20, 19, 33, 49, 53] 0.86 days. [2] R: 0
+Period 31 	 [77, 24, 33, 19, 18] 0.94 days. [3] R: 0
+Period 31 	 [37, 33, 49, 42] 0.56 days. [1] R: 0
+Period 31 	 [33, 29, 26] 0.37 days. [1] R: 0
+Period 31 	 [33, 37] 0.16 days. [1] R: 0
+Period 31 	 [36, 37, 33, 6, 62] 0.74 days. [1] R: 0
+Period 31 	 [40, 37, 84] 0.12 days. [1] R: 0
+Period 31 	 [40, 37, 33, 49, 54] 0.66 days. [1] R: 0
+Period 31 	 [87, 37, 35] 0.15 days. [1] R: 0
+Period 31 	 [88, 37, 33, 6, 58] 0.88 days. [4] R: 0
+Period 31 	 [88, 37, 33, 49, 51] 0.65 days. [2] R: 0
+Period 31 	 [96, 37, 33, 19, 18] 0.56 days. [1] R: 0
+Period 31 	 [96, 37, 33, 49, 44] 0.68 days. [1] R: 0
+Period 31 	 [50, 49, 33, 19, 18] 0.77 days. [1] R: 0
+Period 31 	 [100, 49, 33, 37, 84] 0.65 days. [1] R: 0
+Period 32 	 [6, 9] 0.12 days. [1] R: 20
+Period 32 	 [6, 10] 0.12 days. [1] R: 20
+Period 32 	 [6, 33, 19, 18] 0.72 days. [3] R: 20
+Period 32 	 [6, 33, 29] 0.75 days. [2] R: 20
+Period 32 	 [6, 33, 29, 28] 0.82 days. [1] R: 20
+Period 32 	 [6, 33, 37, 39] 0.74 days. [1] R: 20
+Period 32 	 [6, 33, 37, 40] 0.63 days. [2] R: 20
+Period 32 	 [62, 6, 8] 0.32 days. [1] R: 1
+Period 32 	 [70, 12, 33, 19, 21] 0.75 days. [3] R: 0
+Period 32 	 [29, 33, 37, 35] 0.50 days. [1] R: 0
+Period 32 	 [29, 33, 37, 41] 0.53 days. [2] R: 0
+Period 32 	 [26, 29, 33, 19] 0.74 days. [1] R: 1
+Period 32 	 [37, 33, 6, 66] 0.65 days. [1] R: 1
+Period 32 	 [37, 33, 19, 17] 0.61 days. [2] R: 1
+Period 32 	 [37, 33, 29, 30] 0.53 days. [1] R: 1
+Period 32 	 [37, 96] 0.12 days. [1] R: 1
+Period 32 	 [37, 33, 49, 42] 0.56 days. [1] R: 1
+Period 32 	 [38, 37, 33, 12, 16] 0.70 days. [1] R: 4
+Period 32 	 [38, 37, 33, 24, 76] 0.91 days. [1] R: 4
+Period 32 	 [80, 37, 33, 29, 27] 0.76 days. [1] R: 0
+Period 32 	 [92, 37, 33, 49, 52] 0.75 days. [1] R: 1
+Period 33 	 [6, 33, 37, 38] 0.69 days. [3] R: 20
+Period 33 	 [21, 19, 33, 37, 34] 0.67 days. [1] R: 3
+Period 33 	 [49, 33] 0.38 days. [1] R: 0
+Period 33 	 [49, 33, 37, 35] 0.58 days. [2] R: 0
+Period 33 	 [49, 33, 37, 36] 0.54 days. [2] R: 0
+Period 33 	 [49, 33, 37, 39] 0.67 days. [18] R: 0
+Period 33 	 [49, 33, 37, 80] 0.68 days. [8] R: 0
+Period 33 	 [101, 49, 33, 37] 0.64 days. [1] R: 0
+	 Repartido Periodo 31: 70.000000
+	 Repartido Periodo 32: 29.000000
+	 Repartido Periodo 33: 36.000000
+	 Repartido Periodo 34: 0.000000
+Scenario 0
+	 Demandas Periodo 31: 493.000000 [0]
+	 Demandas Periodo 32: 508.000000 [170]
+	 Demandas Periodo 33: 540.000000 [0]
+	 Demandas Periodo 34: 545.000000 [0]
+Scenario 1
+	 Demandas Periodo 31: 565.000000 [0]
+	 Demandas Periodo 32: 584.000000 [170]
+	 Demandas Periodo 33: 620.000000 [0]
+	 Demandas Periodo 34: 627.000000 [0]
+Scenario 2
+	 Demandas Periodo 31: 486.000000 [0]
+	 Demandas Periodo 32: 505.000000 [170]
+	 Demandas Periodo 33: 537.000000 [0]
+	 Demandas Periodo 34: 530.000000 [0]
+ObjVal: 15.000000 Time: 246.122942 GAP: 0.000000

@@ -1,0 +1,56 @@
+Period 1 	 [106, 130] 1.15 days. [5] R: 0
+Period 1 	 [106, 136] 1.05 days. [1] R: 0
+Period 1 	 [106, 150] 1.07 days. [3] R: 0
+Period 1 	 [113, 147] 1.03 days. [10] R: 0
+Period 1 	 [114, 139] 1.03 days. [4] R: 0
+Period 1 	 [114, 147] 1.03 days. [2] R: 0
+Period 1 	 [116, 153] 1.01 days. [12] R: 0
+Period 1 	 [118, 108] 1.06 days. [5] R: 0
+Period 1 	 [118, 116] 1.02 days. [8] R: 0
+Period 1 	 [118, 125] 1.02 days. [17] R: 0
+Period 1 	 [121, 138] 1.01 days. [2] R: 0
+Period 1 	 [122, 111] 1.03 days. [3] R: 0
+Period 1 	 [122, 135] 1.06 days. [4] R: 0
+Period 1 	 [124, 156] 1.06 days. [10] R: 0
+Period 1 	 [126, 150] 1.03 days. [3] R: 0
+Period 1 	 [127, 109] 1.08 days. [3] R: 0
+Period 1 	 [132, 155] 1.07 days. [8] R: 0
+Period 1 	 [134, 150] 1.02 days. [2] R: 0
+Period 1 	 [137, 129] 1.04 days. [1] R: 0
+Period 1 	 [137, 133] 1.05 days. [13] R: 0
+Period 1 	 [137, 140] 1.01 days. [12] R: 0
+Period 1 	 [141, 135] 1.06 days. [2] R: 0
+Period 1 	 [142, 145] 1.01 days. [6] R: 0
+Period 1 	 [144, 136] 1.02 days. [7] R: 0
+Period 1 	 [148, 119] 1.01 days. [1] R: 0
+Period 1 	 [149, 109] 1.05 days. [5] R: 0
+Period 1 	 [149, 138] 1.00 days. [1] R: 0
+Period 1 	 [151, 133] 1.05 days. [2] R: 0
+Period 2 	 [109, 139] 1.05 days. [4] R: 0
+Period 2 	 [112, 122] 1.04 days. [6] R: 0
+Period 2 	 [115, 151] 1.01 days. [8] R: 0
+Period 2 	 [119, 132] 1.05 days. [20] R: 0
+Period 2 	 [126, 142] 1.03 days. [10] R: 0
+Period 2 	 [131, 151] 1.03 days. [1] R: 0
+Period 2 	 [145, 142] 1.01 days. [4] R: 0
+Period 2 	 [149, 151] 1.01 days. [3] R: 0
+	 Repartido Periodo 1: 152.000000
+	 Repartido Periodo 2: 56.000000
+	 Repartido Periodo 3: 0.000000
+	 Repartido Periodo 4: 0.000000
+Scenario 0
+	 Demandas Periodo 1: 55.000000 [0]
+	 Demandas Periodo 2: 80.000000 [0]
+	 Demandas Periodo 3: 100.000000 [0]
+	 Demandas Periodo 4: 133.000000 [0]
+Scenario 1
+	 Demandas Periodo 1: 89.000000 [0]
+	 Demandas Periodo 2: 123.000000 [0]
+	 Demandas Periodo 3: 151.000000 [0]
+	 Demandas Periodo 4: 188.000000 [0]
+Scenario 2
+	 Demandas Periodo 1: 68.000000 [0]
+	 Demandas Periodo 2: 79.000000 [0]
+	 Demandas Periodo 3: 103.000000 [0]
+	 Demandas Periodo 4: 129.000000 [0]
+ObjVal: -18.000000 Time: 13.848264 GAP: 0.000000

@@ -1,0 +1,65 @@
+Period 43 	 [106, 125] 1.06 days. [1] R: 0
+Period 43 	 [106, 135] 1.12 days. [3] R: 0
+Period 43 	 [106, 139] 1.06 days. [0] R: 0
+Period 43 	 [107, 150] 1.03 days. [2] R: 0
+Period 43 	 [112, 155] 1.02 days. [1] R: 0
+Period 43 	 [113, 129] 1.02 days. [1] R: 0
+Period 43 	 [114, 133] 1.03 days. [2] R: 0
+Period 43 	 [115, 111] 1.04 days. [1] R: 0
+Period 43 	 [115, 136] 1.03 days. [0] R: 0
+Period 43 	 [115, 154] 1.03 days. [1] R: 0
+Period 43 	 [116, 138] 1.00 days. [2] R: 0
+Period 43 	 [116, 142] 1.00 days. [1] R: 0
+Period 43 	 [117, 142] 1.00 days. [1] R: 0
+Period 43 	 [117, 151] 1.01 days. [2] R: 0
+Period 43 	 [118, 147] 1.02 days. [3] R: 0
+Period 43 	 [119, 109] 1.06 days. [0] R: 0
+Period 43 	 [119, 137] 1.00 days. [1] R: 0
+Period 43 	 [119, 153] 1.00 days. [1] R: 0
+Period 43 	 [121, 141] 1.00 days. [1] R: 0
+Period 43 	 [121, 148] 1.00 days. [2] R: 0
+Period 43 	 [122, 108] 1.08 days. [1] R: 0
+Period 43 	 [122, 109] 1.06 days. [1] R: 0
+Period 43 	 [122, 116] 1.00 days. [1] R: 0
+Period 43 	 [123, 108] 1.09 days. [0] R: 0
+Period 43 	 [123, 134] 1.04 days. [2] R: 0
+Period 43 	 [124, 141] 1.00 days. [1] R: 0
+Period 43 	 [124, 152] 1.00 days. [2] R: 0
+Period 43 	 [126, 130] 1.06 days. [2] R: 0
+Period 43 	 [126, 155] 1.02 days. [1] R: 0
+Period 43 	 [127, 143] 1.03 days. [1] R: 0
+Period 43 	 [127, 154] 1.00 days. [1] R: 0
+Period 43 	 [128, 110] 1.06 days. [1] R: 0
+Period 43 	 [128, 140] 1.05 days. [1] R: 0
+Period 43 	 [131, 136] 1.02 days. [2] R: 0
+Period 43 	 [131, 155] 1.04 days. [0] R: 0
+Period 43 	 [146, 145] 1.00 days. [1] R: 0
+Period 44 	 [113, 112] 1.02 days. [2] R: 0
+Period 44 	 [117, 146] 1.00 days. [3] R: 0
+Period 44 	 [118, 142] 1.02 days. [1] R: 0
+Period 44 	 [118, 143] 1.02 days. [1] R: 0
+Period 44 	 [118, 156] 1.06 days. [2] R: 0
+Period 44 	 [119, 137] 1.00 days. [1] R: 0
+Period 44 	 [119, 144] 1.00 days. [3] R: 0
+Period 44 	 [121, 149] 1.00 days. [1] R: 0
+Period 44 	 [124, 120] 1.00 days. [2] R: 0
+	 Repartido Periodo 43: 50.000002
+	 Repartido Periodo 44: 15.999999
+	 Repartido Periodo 45: 0.000000
+	 Repartido Periodo 46: 0.000000
+Scenario 0
+	 Demandas Periodo 43: 1106.000000 [0]
+	 Demandas Periodo 44: 1080.000000 [0]
+	 Demandas Periodo 45: 1020.000000 [0]
+	 Demandas Periodo 46: 980.000000 [0]
+Scenario 1
+	 Demandas Periodo 43: 1426.000000 [0]
+	 Demandas Periodo 44: 1390.000000 [0]
+	 Demandas Periodo 45: 1319.000000 [0]
+	 Demandas Periodo 46: 1265.000000 [0]
+Scenario 2
+	 Demandas Periodo 43: 864.000000 [0]
+	 Demandas Periodo 44: 840.000000 [0]
+	 Demandas Periodo 45: 795.000000 [0]
+	 Demandas Periodo 46: 757.000000 [0]
+ObjVal: -17.000000 Time: 33.849174 GAP: 0.000000

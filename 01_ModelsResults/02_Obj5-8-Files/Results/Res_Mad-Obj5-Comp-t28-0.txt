@@ -1,0 +1,21 @@
+Period 28 	 [148, 124] 1.00 days. [1] R: 0
+	 Repartido Periodo 28: 1.000000
+	 Repartido Periodo 29: 0.000000
+	 Repartido Periodo 30: 0.000000
+	 Repartido Periodo 31: 0.000000
+Scenario 0
+	 Demandas Periodo 28: 1500.000000 [0]
+	 Demandas Periodo 29: 1506.000000 [0]
+	 Demandas Periodo 30: 1499.000000 [213]
+	 Demandas Periodo 31: 1448.000000 [0]
+Scenario 1
+	 Demandas Periodo 28: 1926.000000 [0]
+	 Demandas Periodo 29: 1941.000000 [0]
+	 Demandas Periodo 30: 1916.000000 [213]
+	 Demandas Periodo 31: 1866.000000 [0]
+Scenario 2
+	 Demandas Periodo 28: 1161.000000 [0]
+	 Demandas Periodo 29: 1165.000000 [0]
+	 Demandas Periodo 30: 1163.000000 [213]
+	 Demandas Periodo 31: 1126.000000 [0]
+ObjVal: 12.000000 Time: 3.622639 GAP: 0.000000

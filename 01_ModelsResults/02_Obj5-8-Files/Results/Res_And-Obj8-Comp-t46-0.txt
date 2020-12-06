@@ -1,0 +1,37 @@
+Period 46 	 [0, 14] 1.63 days. [1] R: 0
+Period 46 	 [1, 56] 1.00 days. [6] R: 0
+Period 46 	 [2, 31] 1.29 days. [1] R: 0
+Period 46 	 [2, 55] 1.64 days. [1] R: 0
+Period 46 	 [3, 37] 1.31 days. [2] R: 0
+Period 46 	 [4, 49] 1.77 days. [1] R: 0
+Period 46 	 [8, 33] 1.23 days. [1] R: 0
+Period 46 	 [8, 86] 1.21 days. [1] R: 0
+Period 46 	 [8, 92] 1.11 days. [1] R: 0
+Period 46 	 [10, 27] 1.46 days. [1] R: 0
+Period 46 	 [10, 62] 1.02 days. [1] R: 0
+Period 46 	 [10, 63] 1.04 days. [1] R: 0
+Period 46 	 [10, 65] 1.04 days. [1] R: 0
+Period 46 	 [28, 25] 1.49 days. [1] R: 0
+Period 46 	 [33, 37] 1.06 days. [1] R: 0
+Period 46 	 [37, 85] 1.00 days. [5] R: 0
+Period 47 	 [86, 46] 1.32 days. [1] R: 0
+	 Repartido Periodo 46: 26.000000
+	 Repartido Periodo 47: 1.000000
+	 Repartido Periodo 48: 0.000000
+	 Repartido Periodo 49: 0.000000
+Scenario 0
+	 Demandas Periodo 46: 421.000000 [0]
+	 Demandas Periodo 47: 377.000000 [0]
+	 Demandas Periodo 48: 349.000000 [0]
+	 Demandas Periodo 49: 237.000000 [0]
+Scenario 1
+	 Demandas Periodo 46: 492.000000 [0]
+	 Demandas Periodo 47: 441.000000 [0]
+	 Demandas Periodo 48: 428.000000 [0]
+	 Demandas Periodo 49: 323.000000 [0]
+Scenario 2
+	 Demandas Periodo 46: 416.000000 [0]
+	 Demandas Periodo 47: 389.000000 [0]
+	 Demandas Periodo 48: 371.000000 [0]
+	 Demandas Periodo 49: 269.000000 [0]
+ObjVal: 17.000000 Time: 112.784509 GAP: 0.000000

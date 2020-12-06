@@ -1,0 +1,61 @@
+Period 10 	 [108, 118] 1.06 days. [1] R: 0
+Period 10 	 [109, 118] 1.05 days. [1] R: 0
+Period 10 	 [120, 124] 1.00 days. [1] R: 0
+Period 10 	 [130, 118] 1.09 days. [1] R: 0
+Period 10 	 [133, 113] 1.02 days. [1] R: 0
+Period 10 	 [134, 117] 1.03 days. [3] R: 0
+Period 10 	 [135, 117] 1.06 days. [2] R: 0
+Period 10 	 [136, 118] 1.02 days. [2] R: 0
+Period 10 	 [137, 119] 1.00 days. [2] R: 0
+Period 10 	 [138, 116] 1.00 days. [2] R: 0
+Period 10 	 [139, 118] 1.01 days. [1] R: 0
+Period 10 	 [139, 119] 1.01 days. [1] R: 0
+Period 10 	 [140, 118] 1.02 days. [2] R: 0
+Period 10 	 [141, 124] 1.00 days. [2] R: 0
+Period 10 	 [142, 117] 1.00 days. [2] R: 0
+Period 10 	 [143, 118] 1.02 days. [2] R: 0
+Period 10 	 [144, 119] 1.00 days. [2] R: 0
+Period 10 	 [145, 118] 1.02 days. [4] R: 0
+Period 10 	 [146, 117] 1.00 days. [2] R: 0
+Period 10 	 [147, 117] 1.02 days. [2] R: 0
+Period 10 	 [148, 118] 1.01 days. [1] R: 0
+Period 10 	 [148, 124] 1.00 days. [2] R: 0
+Period 10 	 [149, 118] 1.01 days. [2] R: 0
+Period 10 	 [150, 112] 1.03 days. [1] R: 0
+Period 10 	 [150, 117] 1.02 days. [1] R: 0
+Period 10 	 [151, 119] 1.00 days. [4] R: 0
+Period 10 	 [152, 121] 1.00 days. [1] R: 0
+Period 10 	 [152, 124] 1.00 days. [1] R: 0
+Period 10 	 [153, 119] 1.00 days. [3] R: 0
+Period 10 	 [154, 118] 1.03 days. [3] R: 0
+Period 10 	 [155, 118] 1.02 days. [4] R: 0
+Period 10 	 [156, 118] 1.06 days. [2] R: 0
+Period 11 	 [139, 124] 1.00 days. [2] R: 0
+Period 11 	 [141, 121] 1.00 days. [0] R: 0
+Period 11 	 [142, 117] 1.00 days. [2] R: 0
+Period 11 	 [143, 117] 1.02 days. [0] R: 0
+Period 11 	 [144, 119] 1.00 days. [1] R: 0
+Period 11 	 [146, 117] 1.00 days. [1] R: 0
+Period 11 	 [147, 117] 1.02 days. [1] R: 0
+Period 11 	 [149, 112] 1.04 days. [1] R: 0
+Period 11 	 [152, 121] 1.00 days. [1] R: 0
+	 Repartido Periodo 10: 62.000000
+	 Repartido Periodo 11: 11.000000
+	 Repartido Periodo 12: 0.000000
+	 Repartido Periodo 13: 0.000000
+Scenario 0
+	 Demandas Periodo 10: 496.000000 [0]
+	 Demandas Periodo 11: 596.000000 [0]
+	 Demandas Periodo 12: 680.000000 [0]
+	 Demandas Periodo 13: 768.000000 [0]
+Scenario 1
+	 Demandas Periodo 10: 656.000000 [0]
+	 Demandas Periodo 11: 774.000000 [0]
+	 Demandas Periodo 12: 883.000000 [0]
+	 Demandas Periodo 13: 999.000000 [0]
+Scenario 2
+	 Demandas Periodo 10: 403.000000 [0]
+	 Demandas Periodo 11: 476.000000 [0]
+	 Demandas Periodo 12: 540.000000 [0]
+	 Demandas Periodo 13: 606.000000 [0]
+ObjVal: 9.999999 Time: 14.277991 GAP: 0.000000
