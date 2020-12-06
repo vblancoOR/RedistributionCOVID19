@@ -1,0 +1,22 @@
+Period 43 	 [9, 105] 1.17 days. [1] R: 0
+Period 44 	 [48, 104] 1.17 days. [1] R: 0
+	 Repartido Periodo 43: 1.000000
+	 Repartido Periodo 44: 1.000000
+	 Repartido Periodo 45: 0.000000
+	 Repartido Periodo 46: 0.000000
+Scenario 0
+	 Demandas Periodo 43: 473.000000 [0]
+	 Demandas Periodo 44: 458.000000 [0]
+	 Demandas Periodo 45: 433.000000 [0]
+	 Demandas Periodo 46: 421.000000 [0]
+Scenario 1
+	 Demandas Periodo 43: 542.000000 [0]
+	 Demandas Periodo 44: 527.000000 [0]
+	 Demandas Periodo 45: 505.000000 [0]
+	 Demandas Periodo 46: 492.000000 [0]
+Scenario 2
+	 Demandas Periodo 43: 459.000000 [0]
+	 Demandas Periodo 44: 454.000000 [0]
+	 Demandas Periodo 45: 429.000000 [0]
+	 Demandas Periodo 46: 416.000000 [0]
+ObjVal: 0.000000 Time: 135.896226 GAP: 0.000000

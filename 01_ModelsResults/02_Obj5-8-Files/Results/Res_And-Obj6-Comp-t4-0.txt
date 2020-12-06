@@ -1,0 +1,22 @@
+Period 4 	 [66, 63] 1.00 days. [1] R: 0
+Period 4 	 [96, 0] 1.42 days. [1] R: 0
+	 Repartido Periodo 4: 2.000000
+	 Repartido Periodo 5: 0.000000
+	 Repartido Periodo 6: 0.000000
+	 Repartido Periodo 7: 0.000000
+Scenario 0
+	 Demandas Periodo 4: 0.000000 [0]
+	 Demandas Periodo 5: 2.000000 [0]
+	 Demandas Periodo 6: 2.000000 [0]
+	 Demandas Periodo 7: 2.000000 [0]
+Scenario 1
+	 Demandas Periodo 4: 122.000000 [0]
+	 Demandas Periodo 5: 99.000000 [0]
+	 Demandas Periodo 6: 103.000000 [0]
+	 Demandas Periodo 7: 115.000000 [0]
+Scenario 2
+	 Demandas Periodo 4: 117.000000 [0]
+	 Demandas Periodo 5: 94.000000 [0]
+	 Demandas Periodo 6: 111.000000 [0]
+	 Demandas Periodo 7: 98.000000 [0]
+ObjVal: 0.000000 Time: 144.126290 GAP: 0.000000

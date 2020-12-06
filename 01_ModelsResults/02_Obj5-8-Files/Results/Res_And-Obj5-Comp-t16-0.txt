@@ -1,0 +1,20 @@
+	 Repartido Periodo 16: 0.000000
+	 Repartido Periodo 17: 0.000000
+	 Repartido Periodo 18: 0.000000
+	 Repartido Periodo 19: 0.000000
+Scenario 0
+	 Demandas Periodo 16: 100.000000 [0]
+	 Demandas Periodo 17: 115.000000 [0]
+	 Demandas Periodo 18: 131.000000 [0]
+	 Demandas Periodo 19: 143.000000 [0]
+Scenario 1
+	 Demandas Periodo 16: 166.000000 [0]
+	 Demandas Periodo 17: 179.000000 [0]
+	 Demandas Periodo 18: 196.000000 [0]
+	 Demandas Periodo 19: 203.000000 [0]
+Scenario 2
+	 Demandas Periodo 16: 162.000000 [0]
+	 Demandas Periodo 17: 177.000000 [0]
+	 Demandas Periodo 18: 183.000000 [0]
+	 Demandas Periodo 19: 189.000000 [0]
+ObjVal: 4.000000 Time: 147.632676 GAP: 0.000000

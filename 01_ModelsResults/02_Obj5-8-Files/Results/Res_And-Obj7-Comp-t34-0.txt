@@ -1,0 +1,54 @@
+Period 34 	 [1, 31] 1.30 days. [1] R: 0
+Period 34 	 [1, 33] 1.40 days. [2] R: 0
+Period 34 	 [1, 46] 1.69 days. [1] R: 0
+Period 34 	 [5, 88] 1.22 days. [1] R: 0
+Period 34 	 [5, 101] 1.26 days. [3] R: 0
+Period 34 	 [24, 4] 1.95 days. [18] R: 0
+Period 34 	 [24, 32] 1.69 days. [20] R: 0
+Period 34 	 [24, 51] 1.18 days. [20] R: 0
+Period 34 	 [24, 60] 1.19 days. [17] R: 0
+Period 34 	 [24, 79] 1.47 days. [7] R: 0
+Period 34 	 [39, 35] 1.10 days. [6] R: 0
+Period 34 	 [40, 14] 1.35 days. [1] R: 0
+Period 34 	 [40, 38] 1.07 days. [1] R: 0
+Period 34 	 [40, 79] 1.02 days. [1] R: 0
+Period 34 	 [40, 104] 1.32 days. [1] R: 0
+Period 34 	 [41, 67] 1.41 days. [15] R: 0
+Period 34 	 [41, 69] 1.30 days. [1] R: 0
+Period 34 	 [42, 12] 1.24 days. [10] R: 0
+Period 34 	 [42, 61] 1.17 days. [3] R: 0
+Period 34 	 [48, 13] 1.11 days. [4] R: 0
+Period 34 	 [59, 77] 1.19 days. [2] R: 0
+Period 34 	 [59, 105] 1.17 days. [1] R: 0
+Period 34 	 [75, 8] 1.37 days. [2] R: 0
+Period 34 	 [78, 35] 1.49 days. [1] R: 0
+Period 34 	 [78, 49] 1.23 days. [1] R: 0
+Period 34 	 [78, 100] 1.23 days. [1] R: 0
+Period 34 	 [98, 79] 1.32 days. [1] R: 0
+Period 34 	 [102, 79] 1.31 days. [1] R: 0
+Period 34 	 [103, 53] 1.00 days. [8] R: 0
+Period 35 	 [14, 19] 1.38 days. [1] R: 0
+Period 35 	 [24, 18] 1.63 days. [1] R: 0
+Period 35 	 [31, 62] 1.75 days. [1] R: 0
+Period 35 	 [46, 87] 1.32 days. [1] R: 0
+Period 35 	 [104, 51] 1.01 days. [1] R: 0
+	 Repartido Periodo 34: 151.000000
+	 Repartido Periodo 35: 5.000000
+	 Repartido Periodo 36: 0.000000
+	 Repartido Periodo 37: 0.000000
+Scenario 0
+	 Demandas Periodo 34: 545.000000 [0]
+	 Demandas Periodo 35: 559.000000 [0]
+	 Demandas Periodo 36: 543.000000 [0]
+	 Demandas Periodo 37: 526.000000 [0]
+Scenario 1
+	 Demandas Periodo 34: 627.000000 [0]
+	 Demandas Periodo 35: 630.000000 [0]
+	 Demandas Periodo 36: 621.000000 [0]
+	 Demandas Periodo 37: 599.000000 [0]
+Scenario 2
+	 Demandas Periodo 34: 530.000000 [0]
+	 Demandas Periodo 35: 531.000000 [0]
+	 Demandas Periodo 36: 540.000000 [0]
+	 Demandas Periodo 37: 535.000000 [0]
+ObjVal: 16.000000 Time: 100.961674 GAP: 0.000000

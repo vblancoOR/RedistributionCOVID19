@@ -1,0 +1,54 @@
+Period 28 	 [0, 38] 1.48 days. [1] R: 0
+Period 28 	 [2, 56] 1.00 days. [5] R: 0
+Period 28 	 [3, 49] 1.62 days. [1] R: 0
+Period 28 	 [8, 51] 1.26 days. [16] R: 0
+Period 28 	 [9, 18] 1.50 days. [8] R: 0
+Period 28 	 [9, 36] 1.33 days. [2] R: 0
+Period 28 	 [9, 40] 1.32 days. [2] R: 0
+Period 28 	 [11, 19] 1.16 days. [2] R: 0
+Period 28 	 [11, 104] 1.29 days. [1] R: 0
+Period 28 	 [12, 17] 1.40 days. [13] R: 0
+Period 28 	 [13, 38] 1.20 days. [1] R: 0
+Period 28 	 [14, 19] 1.38 days. [1] R: 0
+Period 28 	 [23, 6] 1.19 days. [1] R: 0
+Period 28 	 [23, 39] 1.35 days. [2] R: 0
+Period 28 	 [24, 22] 1.66 days. [2] R: 0
+Period 28 	 [30, 35] 1.33 days. [12] R: 0
+Period 28 	 [33, 19] 1.18 days. [1] R: 0
+Period 28 	 [46, 19] 1.47 days. [1] R: 0
+Period 28 	 [57, 10] 1.72 days. [1] R: 0
+Period 28 	 [57, 20] 1.16 days. [1] R: 0
+Period 28 	 [63, 7] 1.00 days. [1] R: 0
+Period 28 	 [67, 45] 1.28 days. [4] R: 0
+Period 28 	 [69, 87] 1.24 days. [5] R: 0
+Period 28 	 [73, 5] 1.41 days. [1] R: 0
+Period 28 	 [75, 52] 1.18 days. [4] R: 0
+Period 28 	 [80, 52] 1.24 days. [6] R: 0
+Period 28 	 [97, 49] 1.02 days. [8] R: 0
+Period 28 	 [97, 96] 1.33 days. [7] R: 0
+Period 28 	 [98, 52] 1.01 days. [3] R: 0
+Period 28 	 [99, 52] 1.00 days. [2] R: 0
+Period 28 	 [99, 105] 1.00 days. [1] R: 0
+Period 28 	 [103, 42] 1.01 days. [2] R: 0
+Period 28 	 [103, 53] 1.00 days. [5] R: 0
+Period 29 	 [16, 38] 1.17 days. [1] R: 0
+	 Repartido Periodo 28: 123.000000
+	 Repartido Periodo 29: 1.000000
+	 Repartido Periodo 30: 0.000000
+	 Repartido Periodo 31: 0.000000
+Scenario 0
+	 Demandas Periodo 28: 463.000000 [0]
+	 Demandas Periodo 29: 474.000000 [0]
+	 Demandas Periodo 30: 480.000000 [0]
+	 Demandas Periodo 31: 493.000000 [0]
+Scenario 1
+	 Demandas Periodo 28: 536.000000 [0]
+	 Demandas Periodo 29: 549.000000 [0]
+	 Demandas Periodo 30: 558.000000 [0]
+	 Demandas Periodo 31: 565.000000 [0]
+Scenario 2
+	 Demandas Periodo 28: 468.000000 [0]
+	 Demandas Periodo 29: 469.000000 [0]
+	 Demandas Periodo 30: 478.000000 [0]
+	 Demandas Periodo 31: 486.000000 [0]
+ObjVal: 12.000000 Time: 98.818933 GAP: 0.000000

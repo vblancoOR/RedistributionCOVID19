@@ -1,0 +1,60 @@
+Period 22 	 [6, 29] 1.53 days. [3] R: 0
+Period 22 	 [10, 3] 1.65 days. [16] R: 0
+Period 22 	 [10, 32] 1.61 days. [20] R: 0
+Period 22 	 [12, 42] 1.24 days. [9] R: 0
+Period 22 	 [14, 29] 1.30 days. [1] R: 0
+Period 22 	 [18, 7] 1.49 days. [20] R: 0
+Period 22 	 [18, 37] 1.18 days. [20] R: 0
+Period 22 	 [18, 67] 1.51 days. [20] R: 0
+Period 22 	 [18, 74] 1.00 days. [2] R: 0
+Period 22 	 [19, 7] 1.49 days. [20] R: 0
+Period 22 	 [19, 29] 1.12 days. [20] R: 0
+Period 22 	 [19, 36] 1.18 days. [2] R: 0
+Period 22 	 [30, 50] 1.46 days. [1] R: 0
+Period 22 	 [30, 102] 1.47 days. [5] R: 0
+Period 22 	 [35, 19] 1.22 days. [3] R: 0
+Period 22 	 [38, 89, 6] 1.28 days. [1] R: 0
+Period 22 	 [38, 16] 1.17 days. [1] R: 0
+Period 22 	 [38, 33] 1.11 days. [15] R: 0
+Period 22 	 [38, 52] 1.28 days. [20] R: 0
+Period 22 	 [39, 48] 1.10 days. [12] R: 0
+Period 22 	 [40, 4] 1.51 days. [13] R: 0
+Period 22 	 [40, 57] 1.39 days. [5] R: 0
+Period 22 	 [44, 19] 1.44 days. [3] R: 0
+Period 22 	 [45, 29] 1.25 days. [2] R: 0
+Period 22 	 [53, 0] 1.70 days. [3] R: 0
+Period 22 	 [53, 2] 1.67 days. [5] R: 0
+Period 22 	 [54, 49] 1.00 days. [1] R: 0
+Period 22 	 [54, 51] 1.00 days. [1] R: 0
+Period 22 	 [56, 2] 1.00 days. [1] R: 0
+Period 22 	 [60, 55] 1.16 days. [1] R: 0
+Period 22 	 [60, 105] 1.17 days. [4] R: 0
+Period 22 	 [78, 29] 1.65 days. [1] R: 0
+Period 22 	 [83, 29] 1.24 days. [1] R: 0
+Period 22 	 [89, 5] 1.13 days. [2] R: 0
+Period 22 	 [92, 29] 1.32 days. [1] R: 0
+Period 22 	 [97, 67] 1.15 days. [2] R: 0
+Period 22 	 [98, 19] 1.47 days. [3] R: 0
+Period 22 	 [99, 104, 50] 1.00 days. [1] R: 0
+Period 22 	 [104, 52] 1.00 days. [1] R: 0
+Period 23 	 [4, 61] 1.82 days. [1] R: 0
+	 Repartido Periodo 22: 262.000000
+	 Repartido Periodo 23: 1.000000
+	 Repartido Periodo 24: 0.000000
+	 Repartido Periodo 25: 0.000000
+Scenario 0
+	 Demandas Periodo 22: 218.000000 [0]
+	 Demandas Periodo 23: 235.000000 [0]
+	 Demandas Periodo 24: 256.000000 [0]
+	 Demandas Periodo 25: 275.000000 [0]
+Scenario 1
+	 Demandas Periodo 22: 281.000000 [0]
+	 Demandas Periodo 23: 306.000000 [0]
+	 Demandas Periodo 24: 326.000000 [0]
+	 Demandas Periodo 25: 339.000000 [0]
+Scenario 2
+	 Demandas Periodo 22: 250.000000 [0]
+	 Demandas Periodo 23: 266.000000 [0]
+	 Demandas Periodo 24: 278.000000 [0]
+	 Demandas Periodo 25: 290.000000 [0]
+ObjVal: 10.000000 Time: 145.249131 GAP: 0.000000

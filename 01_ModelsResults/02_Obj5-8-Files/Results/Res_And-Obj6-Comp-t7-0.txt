@@ -1,0 +1,21 @@
+Period 7 	 [56, 1] 1.00 days. [1] R: 0
+	 Repartido Periodo 7: 1.000000
+	 Repartido Periodo 8: 0.000000
+	 Repartido Periodo 9: 0.000000
+	 Repartido Periodo 10: 0.000000
+Scenario 0
+	 Demandas Periodo 7: 2.000000 [0]
+	 Demandas Periodo 8: 3.000000 [0]
+	 Demandas Periodo 9: 5.000000 [0]
+	 Demandas Periodo 10: 14.000000 [0]
+Scenario 1
+	 Demandas Periodo 7: 115.000000 [0]
+	 Demandas Periodo 8: 100.000000 [0]
+	 Demandas Periodo 9: 96.000000 [0]
+	 Demandas Periodo 10: 117.000000 [0]
+Scenario 2
+	 Demandas Periodo 7: 98.000000 [0]
+	 Demandas Periodo 8: 107.000000 [0]
+	 Demandas Periodo 9: 109.000000 [0]
+	 Demandas Periodo 10: 112.000000 [0]
+ObjVal: 0.000000 Time: 140.445364 GAP: 0.000000

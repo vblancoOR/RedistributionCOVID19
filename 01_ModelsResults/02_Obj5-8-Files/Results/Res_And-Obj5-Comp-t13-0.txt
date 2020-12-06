@@ -1,0 +1,21 @@
+Period 13 	 [64, 1] 1.70 days. [1] R: 0
+	 Repartido Periodo 13: 1.000000
+	 Repartido Periodo 14: 0.000000
+	 Repartido Periodo 15: 0.000000
+	 Repartido Periodo 16: 0.000000
+Scenario 0
+	 Demandas Periodo 13: 52.000000 [0]
+	 Demandas Periodo 14: 52.000000 [0]
+	 Demandas Periodo 15: 76.000000 [0]
+	 Demandas Periodo 16: 100.000000 [0]
+Scenario 1
+	 Demandas Periodo 13: 121.000000 [0]
+	 Demandas Periodo 14: 130.000000 [0]
+	 Demandas Periodo 15: 141.000000 [0]
+	 Demandas Periodo 16: 166.000000 [0]
+Scenario 2
+	 Demandas Periodo 13: 120.000000 [0]
+	 Demandas Periodo 14: 131.000000 [0]
+	 Demandas Periodo 15: 132.000000 [0]
+	 Demandas Periodo 16: 162.000000 [0]
+ObjVal: 2.000000 Time: 150.097074 GAP: 0.000000

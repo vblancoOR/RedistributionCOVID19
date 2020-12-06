@@ -1,0 +1,77 @@
+Period 22 	 [2, 33, 6, 65] 0.99 days. [1] R: 0
+Period 22 	 [2, 33, 24, 23] 1.06 days. [10] R: 0
+Period 22 	 [2, 33, 49, 104] 0.89 days. [1] R: 0
+Period 22 	 [57, 2, 33, 37] 0.76 days. [2] R: 0
+Period 22 	 [6, 33, 2] 0.94 days. [8] R: 0
+Period 22 	 [5, 6, 33, 24, 23] 1.29 days. [11] R: 0
+Period 22 	 [5, 6, 33, 49, 53] 1.11 days. [1] R: 0
+Period 22 	 [7, 6, 33, 29, 32] 0.98 days. [2] R: 0
+Period 22 	 [8, 6, 33, 49, 44] 1.13 days. [2] R: 0
+Period 22 	 [8, 6, 33, 49, 50] 1.13 days. [1] R: 0
+Period 22 	 [9, 6, 33, 24, 23] 1.13 days. [3] R: 0
+Period 22 	 [59, 6, 33, 29] 0.85 days. [3] R: 0
+Period 22 	 [60, 6, 33, 24] 1.11 days. [2] R: 0
+Period 22 	 [67, 6, 33, 37] 0.73 days. [1] R: 0
+Period 22 	 [68, 6, 33, 49, 52] 0.99 days. [2] R: 0
+Period 22 	 [14, 12, 33, 49, 52] 0.88 days. [1] R: 0
+Period 22 	 [18, 19, 33, 37, 36] 0.54 days. [15] R: 0
+Period 22 	 [73, 19, 33, 37, 88] 0.56 days. [1] R: 0
+Period 22 	 [74, 19, 33, 37] 0.54 days. [12] R: 0
+Period 22 	 [74, 19, 33, 37, 92] 0.63 days. [1] R: 0
+Period 22 	 [29, 33, 19, 22] 0.66 days. [1] R: 0
+Period 22 	 [29, 33, 49, 44] 0.70 days. [2] R: 0
+Period 22 	 [26, 29, 33, 37, 86] 0.64 days. [1] R: 0
+Period 22 	 [30, 29, 33, 24, 23] 1.03 days. [9] R: 0
+Period 22 	 [30, 29, 33, 49, 52] 0.86 days. [10] R: 0
+Period 22 	 [31, 29] 0.32 days. [1] R: 0
+Period 22 	 [35, 37] 0.14 days. [8] R: 0
+Period 22 	 [38, 37] 0.18 days. [8] R: 0
+Period 22 	 [80, 37, 33, 12, 16] 0.76 days. [1] R: 0
+Period 22 	 [49, 33, 6, 58] 1.00 days. [4] R: 0
+Period 22 	 [42, 49, 33, 24, 23] 1.06 days. [1] R: 0
+Period 22 	 [46, 49, 33, 6] 1.02 days. [2] R: 0
+Period 22 	 [51, 49, 33, 37, 36] 0.65 days. [2] R: 0
+Period 22 	 [54, 49, 52] 0.11 days. [8] R: 0
+Period 22 	 [98, 49, 33, 24, 23] 1.06 days. [1] R: 0
+Period 22 	 [99, 49, 33, 24, 23] 1.05 days. [1] R: 0
+Period 22 	 [102, 49, 33, 37, 86] 0.66 days. [1] R: 0
+Period 22 	 [102, 49, 52] 0.12 days. [2] R: 0
+Period 22 	 [105, 49, 33, 19, 21] 0.87 days. [1] R: 0
+Period 23 	 [2, 33, 6, 69] 1.08 days. [9] R: 8
+Period 23 	 [2, 33, 49, 45] 1.05 days. [5] R: 8
+Period 23 	 [72, 12, 14] 0.23 days. [1] R: 0
+Period 23 	 [21, 19, 33, 49, 52] 0.87 days. [1] R: 1
+Period 23 	 [29, 33, 2, 1] 0.80 days. [2] R: 4
+Period 23 	 [29, 33, 6, 10] 0.76 days. [1] R: 4
+Period 23 	 [29, 33, 37, 84] 0.46 days. [3] R: 4
+Period 23 	 [29, 33, 49, 44] 0.70 days. [20] R: 4
+Period 23 	 [29, 33, 49, 97] 0.70 days. [18] R: 4
+Period 23 	 [29, 33, 49, 105] 0.69 days. [1] R: 4
+Period 23 	 [37, 33, 19] 0.44 days. [1] R: 31
+Period 23 	 [37, 33, 49, 42] 0.56 days. [1] R: 31
+Period 23 	 [82, 37, 36] 0.11 days. [3] R: 0
+Period 23 	 [86, 37, 33, 6, 67] 0.74 days. [1] R: 2
+Period 23 	 [55, 49, 33, 6, 61] 1.01 days. [1] R: 0
+Period 23 	 [104, 49, 44] 0.12 days. [1] R: 1
+Period 24 	 [16, 12, 33] 0.46 days. [1] R: 1
+Period 24 	 [27, 29, 33] 0.46 days. [1] R: 0
+	 Repartido Periodo 22: 144.000000
+	 Repartido Periodo 23: 69.000000
+	 Repartido Periodo 24: 2.000000
+	 Repartido Periodo 25: 0.000000
+Scenario 0
+	 Demandas Periodo 22: 218.000000 [0]
+	 Demandas Periodo 23: 235.000000 [0]
+	 Demandas Periodo 24: 256.000000 [0]
+	 Demandas Periodo 25: 275.000000 [0]
+Scenario 1
+	 Demandas Periodo 22: 281.000000 [0]
+	 Demandas Periodo 23: 306.000000 [0]
+	 Demandas Periodo 24: 326.000000 [0]
+	 Demandas Periodo 25: 339.000000 [0]
+Scenario 2
+	 Demandas Periodo 22: 250.000000 [0]
+	 Demandas Periodo 23: 266.000000 [0]
+	 Demandas Periodo 24: 278.000000 [0]
+	 Demandas Periodo 25: 290.000000 [0]
+ObjVal: 2.000000 Time: 235.628111 GAP: 0.000000

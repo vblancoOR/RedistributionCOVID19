@@ -1,0 +1,25 @@
+Period 40 	 [22, 11] 1.22 days. [16] R: 0
+Period 40 	 [58, 84] 1.22 days. [4] R: 0
+Period 40 	 [61, 29] 1.52 days. [4] R: 0
+Period 40 	 [104, 11] 1.29 days. [1] R: 0
+Period 40 	 [105, 30] 1.46 days. [1] R: 0
+	 Repartido Periodo 40: 26.000000
+	 Repartido Periodo 41: 0.000000
+	 Repartido Periodo 42: 0.000000
+	 Repartido Periodo 43: 0.000000
+Scenario 0
+	 Demandas Periodo 40: 527.000000 [259]
+	 Demandas Periodo 41: 506.000000 [0]
+	 Demandas Periodo 42: 487.000000 [0]
+	 Demandas Periodo 43: 473.000000 [0]
+Scenario 1
+	 Demandas Periodo 40: 599.000000 [259]
+	 Demandas Periodo 41: 573.000000 [0]
+	 Demandas Periodo 42: 550.000000 [0]
+	 Demandas Periodo 43: 542.000000 [0]
+Scenario 2
+	 Demandas Periodo 40: 519.000000 [259]
+	 Demandas Periodo 41: 497.000000 [0]
+	 Demandas Periodo 42: 478.000000 [0]
+	 Demandas Periodo 43: 459.000000 [0]
+ObjVal: 0.000000 Time: 210.415131 GAP: 0.000000
