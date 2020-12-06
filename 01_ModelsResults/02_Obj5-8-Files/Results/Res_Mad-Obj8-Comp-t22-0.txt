@@ -1,0 +1,20 @@
+	 Repartido Periodo 22: 0.000000
+	 Repartido Periodo 23: 0.000000
+	 Repartido Periodo 24: 0.000000
+	 Repartido Periodo 25: 0.000000
+Scenario 0
+	 Demandas Periodo 22: 1459.000000 [22]
+	 Demandas Periodo 23: 1514.000000 [0]
+	 Demandas Periodo 24: 1514.000000 [10]
+	 Demandas Periodo 25: 1528.000000 [0]
+Scenario 1
+	 Demandas Periodo 22: 1886.000000 [22]
+	 Demandas Periodo 23: 1946.000000 [0]
+	 Demandas Periodo 24: 1949.000000 [10]
+	 Demandas Periodo 25: 1960.000000 [0]
+Scenario 2
+	 Demandas Periodo 22: 1138.000000 [22]
+	 Demandas Periodo 23: 1185.000000 [0]
+	 Demandas Periodo 24: 1177.000000 [10]
+	 Demandas Periodo 25: 1187.000000 [0]
+ObjVal: 26.000000 Time: 20.433623 GAP: 0.000000

@@ -1,0 +1,41 @@
+Period 31 	 [116, 108] 0.18 days. [1] R: 0
+Period 31 	 [116, 112] 0.14 days. [1] R: 0
+Period 31 	 [116, 115] 0.12 days. [13] R: 0
+Period 31 	 [116, 118] 0.12 days. [20] R: 0
+Period 31 	 [116, 119] 0.11 days. [1] R: 0
+Period 32 	 [116, 107] 0.14 days. [12] R: 0
+Period 32 	 [116, 108] 0.18 days. [1] R: 0
+Period 32 	 [116, 112] 0.14 days. [20] R: 0
+Period 32 	 [116, 113] 0.13 days. [5] R: 0
+Period 32 	 [116, 115] 0.12 days. [3] R: 0
+Period 32 	 [116, 117] 0.10 days. [6] R: 0
+Period 32 	 [116, 118] 0.12 days. [20] R: 0
+Period 32 	 [116, 119] 0.11 days. [20] R: 0
+Period 32 	 [116, 122] 0.10 days. [5] R: 0
+Period 32 	 [116, 124] 0.11 days. [17] R: 0
+Period 32 	 [116, 128] 0.14 days. [7] R: 0
+Period 33 	 [116, 107] 0.14 days. [1] R: 0
+Period 33 	 [116, 118] 0.12 days. [7] R: 0
+Period 33 	 [116, 125] 0.12 days. [5] R: 0
+Period 33 	 [116, 131] 0.12 days. [11] R: 0
+Period 33 	 [138, 116, 128] 0.15 days. [1] R: 0
+	 Repartido Periodo 31: 36.000000
+	 Repartido Periodo 32: 116.000000
+	 Repartido Periodo 33: 25.000000
+	 Repartido Periodo 34: 0.000000
+Scenario 0
+	 Demandas Periodo 31: 1448.000000 [0]
+	 Demandas Periodo 32: 1432.000000 [135]
+	 Demandas Periodo 33: 1400.000000 [0]
+	 Demandas Periodo 34: 1380.000000 [0]
+Scenario 1
+	 Demandas Periodo 31: 1866.000000 [0]
+	 Demandas Periodo 32: 1836.000000 [135]
+	 Demandas Periodo 33: 1800.000000 [0]
+	 Demandas Periodo 34: 1774.000000 [0]
+Scenario 2
+	 Demandas Periodo 31: 1126.000000 [0]
+	 Demandas Periodo 32: 1108.000000 [135]
+	 Demandas Periodo 33: 1089.000000 [0]
+	 Demandas Periodo 34: 1071.000000 [0]
+ObjVal: 62.000000 Time: 23.705287 GAP: 0.000000

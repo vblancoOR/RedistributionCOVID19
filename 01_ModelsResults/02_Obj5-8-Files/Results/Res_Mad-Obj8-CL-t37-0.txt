@@ -1,0 +1,29 @@
+Period 37 	 [116, 128] 0.14 days. [1] R: 0
+Period 37 	 [142, 116, 114] 0.14 days. [1] R: 0
+Period 38 	 [116, 106] 0.16 days. [1] R: 0
+Period 38 	 [116, 126] 0.13 days. [2] R: 0
+Period 38 	 [130, 116, 149] 0.19 days. [1] R: 0
+Period 39 	 [116, 115] 0.12 days. [2] R: 0
+Period 39 	 [117, 116, 136] 0.12 days. [1] R: 0
+Period 39 	 [125, 116, 119] 0.13 days. [0] R: 0
+Period 39 	 [131, 116, 114] 0.16 days. [1] R: 0
+	 Repartido Periodo 37: 2.000000
+	 Repartido Periodo 38: 4.000000
+	 Repartido Periodo 39: 6.000001
+	 Repartido Periodo 40: 0.000000
+Scenario 0
+	 Demandas Periodo 37: 1300.000000 [0]
+	 Demandas Periodo 38: 1244.000000 [0]
+	 Demandas Periodo 39: 1201.000000 [0]
+	 Demandas Periodo 40: 1155.000000 [205]
+Scenario 1
+	 Demandas Periodo 37: 1671.000000 [0]
+	 Demandas Periodo 38: 1596.000000 [0]
+	 Demandas Periodo 39: 1538.000000 [0]
+	 Demandas Periodo 40: 1491.000000 [205]
+Scenario 2
+	 Demandas Periodo 37: 1009.000000 [0]
+	 Demandas Periodo 38: 968.000000 [0]
+	 Demandas Periodo 39: 943.000000 [0]
+	 Demandas Periodo 40: 904.000000 [205]
+ObjVal: 11.999999 Time: 25.792523 GAP: 0.000000

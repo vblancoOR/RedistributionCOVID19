@@ -1,0 +1,20 @@
+	 Repartido Periodo 19: 0.000000
+	 Repartido Periodo 20: 0.000000
+	 Repartido Periodo 21: 0.000000
+	 Repartido Periodo 22: 0.000000
+Scenario 0
+	 Demandas Periodo 19: 1306.000000 [0]
+	 Demandas Periodo 20: 1400.000000 [11]
+	 Demandas Periodo 21: 1428.000000 [0]
+	 Demandas Periodo 22: 1459.000000 [22]
+Scenario 1
+	 Demandas Periodo 19: 1680.000000 [0]
+	 Demandas Periodo 20: 1798.000000 [11]
+	 Demandas Periodo 21: 1839.000000 [0]
+	 Demandas Periodo 22: 1886.000000 [22]
+Scenario 2
+	 Demandas Periodo 19: 1010.000000 [0]
+	 Demandas Periodo 20: 1091.000000 [11]
+	 Demandas Periodo 21: 1105.000000 [0]
+	 Demandas Periodo 22: 1138.000000 [22]
+ObjVal: 58.000000 Time: 9.273659 GAP: 0.000000
