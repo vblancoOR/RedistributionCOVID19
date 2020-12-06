@@ -1,0 +1,25 @@
+Period 13 	 [137, 116, 114] 0.14 days. [1] R: 0
+Period 13 	 [138, 116, 106] 0.17 days. [1] R: 0
+Period 13 	 [146, 116, 114] 0.14 days. [1] R: 0
+Period 14 	 [143, 116, 114] 0.15 days. [1] R: 0
+Period 15 	 [149, 116, 122] 0.11 days. [1] R: 0
+	 Repartido Periodo 13: 3.000000
+	 Repartido Periodo 14: 1.000000
+	 Repartido Periodo 15: 1.000000
+	 Repartido Periodo 16: 0.000000
+Scenario 0
+	 Demandas Periodo 13: 768.000000 [0]
+	 Demandas Periodo 14: 832.000000 [0]
+	 Demandas Periodo 15: 942.000000 [0]
+	 Demandas Periodo 16: 1048.000000 [351]
+Scenario 1
+	 Demandas Periodo 13: 999.000000 [0]
+	 Demandas Periodo 14: 1073.000000 [0]
+	 Demandas Periodo 15: 1216.000000 [0]
+	 Demandas Periodo 16: 1354.000000 [351]
+Scenario 2
+	 Demandas Periodo 13: 606.000000 [0]
+	 Demandas Periodo 14: 656.000000 [0]
+	 Demandas Periodo 15: 736.000000 [0]
+	 Demandas Periodo 16: 812.000000 [351]
+ObjVal: 880.000000 Time: 26.122925 GAP: 0.000000

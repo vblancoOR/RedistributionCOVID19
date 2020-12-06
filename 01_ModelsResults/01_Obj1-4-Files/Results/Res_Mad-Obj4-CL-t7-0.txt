@@ -1,0 +1,107 @@
+Period 7 	 [116, 119] 0.11 days. [1] R: 0
+Period 7 	 [109, 116, 125] 0.18 days. [1] R: 0
+Period 7 	 [112, 116, 137] 0.15 days. [1] R: 0
+Period 7 	 [113, 116] 0.13 days. [1] R: 0
+Period 7 	 [114, 116] 0.13 days. [3] R: 0
+Period 7 	 [132, 116, 121] 0.16 days. [4] R: 0
+Period 7 	 [133, 116, 121] 0.16 days. [1] R: 0
+Period 7 	 [134, 116, 128] 0.17 days. [8] R: 0
+Period 7 	 [135, 116, 125] 0.18 days. [1] R: 0
+Period 7 	 [140, 116, 130] 0.19 days. [1] R: 0
+Period 7 	 [141, 116, 119] 0.12 days. [1] R: 0
+Period 7 	 [142, 116, 121] 0.11 days. [5] R: 0
+Period 7 	 [143, 116, 121] 0.13 days. [1] R: 0
+Period 7 	 [145, 116, 137] 0.12 days. [1] R: 0
+Period 7 	 [145, 116, 139] 0.12 days. [4] R: 0
+Period 7 	 [146, 116, 150] 0.12 days. [8] R: 0
+Period 7 	 [147, 116, 121] 0.13 days. [1] R: 0
+Period 7 	 [149, 116, 121] 0.12 days. [6] R: 0
+Period 7 	 [149, 116, 137] 0.12 days. [1] R: 0
+Period 7 	 [151, 116, 137] 0.12 days. [1] R: 0
+Period 7 	 [152, 116, 121] 0.12 days. [1] R: 0
+Period 7 	 [153, 116, 137] 0.12 days. [6] R: 0
+Period 7 	 [154, 116, 122] 0.15 days. [1] R: 0
+Period 7 	 [155, 116, 106] 0.19 days. [6] R: 0
+Period 7 	 [155, 116, 115] 0.14 days. [1] R: 0
+Period 7 	 [156, 116, 121] 0.16 days. [3] R: 0
+Period 8 	 [106, 116, 123] 0.18 days. [1] R: 6
+Period 8 	 [106, 116, 128] 0.21 days. [2] R: 6
+Period 8 	 [106, 116, 139] 0.17 days. [3] R: 6
+Period 8 	 [114, 116, 139] 0.14 days. [1] R: 0
+Period 8 	 [120, 116, 121] 0.12 days. [2] R: 0
+Period 8 	 [125, 116] 0.12 days. [2] R: 2
+Period 8 	 [137, 116, 110] 0.18 days. [2] R: 10
+Period 8 	 [137, 116, 115] 0.13 days. [1] R: 10
+Period 8 	 [137, 116, 121] 0.12 days. [14] R: 10
+Period 8 	 [137, 116, 122] 0.11 days. [1] R: 10
+Period 8 	 [137, 116, 124] 0.12 days. [1] R: 10
+Period 8 	 [137, 116, 126] 0.14 days. [6] R: 10
+Period 8 	 [137, 116, 132] 0.16 days. [2] R: 10
+Period 8 	 [142, 116, 152] 0.11 days. [1] R: 0
+Period 8 	 [143, 116, 119] 0.13 days. [2] R: 0
+Period 8 	 [147, 116, 113] 0.15 days. [1] R: 0
+Period 8 	 [147, 116, 119] 0.13 days. [1] R: 0
+Period 8 	 [155, 116, 124] 0.14 days. [4] R: 0
+Period 9 	 [121, 116, 106] 0.17 days. [2] R: 38
+Period 9 	 [121, 116, 109] 0.17 days. [1] R: 38
+Period 9 	 [121, 116, 113] 0.14 days. [2] R: 38
+Period 9 	 [121, 116, 117] 0.11 days. [6] R: 38
+Period 9 	 [121, 116, 119] 0.12 days. [7] R: 38
+Period 9 	 [121, 116, 122] 0.11 days. [7] R: 38
+Period 9 	 [121, 116, 133] 0.16 days. [1] R: 38
+Period 9 	 [128, 116, 127] 0.19 days. [6] R: 10
+Period 9 	 [137, 116, 107] 0.15 days. [1] R: 10
+Period 9 	 [137, 116, 108] 0.19 days. [2] R: 10
+Period 9 	 [137, 116, 114] 0.14 days. [1] R: 10
+Period 9 	 [137, 116, 115] 0.13 days. [1] R: 10
+Period 9 	 [137, 116, 118] 0.13 days. [8] R: 10
+Period 9 	 [137, 116, 119] 0.12 days. [1] R: 10
+Period 9 	 [137, 116, 125] 0.13 days. [1] R: 10
+Period 9 	 [137, 116, 129] 0.16 days. [1] R: 10
+Period 9 	 [137, 116, 131] 0.13 days. [1] R: 10
+Period 9 	 [137, 116, 136] 0.12 days. [1] R: 10
+Period 9 	 [138, 116, 110] 0.17 days. [1] R: 0
+Period 9 	 [138, 116, 120] 0.12 days. [1] R: 0
+Period 9 	 [139, 116, 114] 0.14 days. [8] R: 8
+Period 9 	 [140, 116, 113] 0.14 days. [1] R: 0
+Period 9 	 [141, 116, 107] 0.15 days. [3] R: 0
+Period 9 	 [141, 116, 111] 0.14 days. [3] R: 0
+Period 9 	 [142, 116, 126] 0.14 days. [1] R: 0
+Period 9 	 [143, 116, 127] 0.16 days. [1] R: 0
+Period 9 	 [144, 116, 115] 0.13 days. [5] R: 0
+Period 9 	 [144, 116, 125] 0.13 days. [2] R: 0
+Period 9 	 [144, 116, 132] 0.16 days. [4] R: 0
+Period 9 	 [145, 116] 0.11 days. [1] R: 0
+Period 9 	 [146, 116, 107] 0.14 days. [1] R: 0
+Period 9 	 [147, 116, 106] 0.18 days. [1] R: 0
+Period 9 	 [148, 116, 112] 0.15 days. [8] R: 0
+Period 9 	 [149, 116, 107] 0.14 days. [2] R: 0
+Period 9 	 [149, 116, 123] 0.12 days. [1] R: 0
+Period 9 	 [149, 116, 129] 0.16 days. [3] R: 0
+Period 9 	 [150, 116, 122] 0.12 days. [1] R: 8
+Period 9 	 [150, 116, 124] 0.13 days. [7] R: 8
+Period 9 	 [151, 116, 114] 0.14 days. [1] R: 0
+Period 9 	 [152, 116, 118] 0.13 days. [7] R: 1
+Period 9 	 [153, 116, 106] 0.17 days. [1] R: 0
+Period 9 	 [154, 116, 123] 0.16 days. [7] R: 0
+Period 9 	 [155, 116, 106] 0.19 days. [1] R: 0
+	 Repartido Periodo 7: 69.000000
+	 Repartido Periodo 8: 47.000000
+	 Repartido Periodo 9: 122.000000
+	 Repartido Periodo 10: 0.000000
+Scenario 0
+	 Demandas Periodo 7: 255.000000 [0]
+	 Demandas Periodo 8: 255.000000 [0]
+	 Demandas Periodo 9: 341.000000 [0]
+	 Demandas Periodo 10: 496.000000 [0]
+Scenario 1
+	 Demandas Periodo 7: 347.000000 [0]
+	 Demandas Periodo 8: 339.000000 [0]
+	 Demandas Periodo 9: 444.000000 [0]
+	 Demandas Periodo 10: 656.000000 [0]
+Scenario 2
+	 Demandas Periodo 7: 217.000000 [0]
+	 Demandas Periodo 8: 221.000000 [0]
+	 Demandas Periodo 9: 286.000000 [0]
+	 Demandas Periodo 10: 403.000000 [0]
+ObjVal: 0.000000 Time: 18.579579 GAP: 0.000000

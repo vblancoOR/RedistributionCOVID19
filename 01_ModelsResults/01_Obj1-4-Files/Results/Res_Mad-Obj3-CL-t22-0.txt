@@ -1,0 +1,25 @@
+Period 22 	 [116, 106] 0.16 days. [9] R: 0
+Period 22 	 [116, 126] 0.13 days. [7] R: 0
+Period 24 	 [116, 108] 0.18 days. [1] R: 0
+Period 24 	 [116, 118] 0.12 days. [5] R: 0
+Period 24 	 [116, 130] 0.19 days. [1] R: 0
+	 Repartido Periodo 22: 16.000000
+	 Repartido Periodo 23: 0.000001
+	 Repartido Periodo 24: 7.999999
+	 Repartido Periodo 25: 0.000000
+Scenario 0
+	 Demandas Periodo 22: 1459.000000 [22]
+	 Demandas Periodo 23: 1514.000000 [0]
+	 Demandas Periodo 24: 1514.000000 [10]
+	 Demandas Periodo 25: 1528.000000 [0]
+Scenario 1
+	 Demandas Periodo 22: 1886.000000 [22]
+	 Demandas Periodo 23: 1946.000000 [0]
+	 Demandas Periodo 24: 1949.000000 [10]
+	 Demandas Periodo 25: 1960.000000 [0]
+Scenario 2
+	 Demandas Periodo 22: 1138.000000 [22]
+	 Demandas Periodo 23: 1185.000000 [0]
+	 Demandas Periodo 24: 1177.000000 [10]
+	 Demandas Periodo 25: 1187.000000 [0]
+ObjVal: 1477.333333 Time: 29.828722 GAP: 0.000000

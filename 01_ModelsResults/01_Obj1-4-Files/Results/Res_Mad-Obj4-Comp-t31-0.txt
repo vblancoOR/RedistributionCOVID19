@@ -1,0 +1,21 @@
+Period 32 	 [154, 127] 1.00 days. [1] R: 0
+	 Repartido Periodo 31: 0.000000
+	 Repartido Periodo 32: 1.000000
+	 Repartido Periodo 33: 0.000000
+	 Repartido Periodo 34: 0.000000
+Scenario 0
+	 Demandas Periodo 31: 1448.000000 [0]
+	 Demandas Periodo 32: 1432.000000 [135]
+	 Demandas Periodo 33: 1400.000000 [0]
+	 Demandas Periodo 34: 1380.000000 [0]
+Scenario 1
+	 Demandas Periodo 31: 1866.000000 [0]
+	 Demandas Periodo 32: 1836.000000 [135]
+	 Demandas Periodo 33: 1800.000000 [0]
+	 Demandas Periodo 34: 1774.000000 [0]
+Scenario 2
+	 Demandas Periodo 31: 1126.000000 [0]
+	 Demandas Periodo 32: 1108.000000 [135]
+	 Demandas Periodo 33: 1089.000000 [0]
+	 Demandas Periodo 34: 1071.000000 [0]
+ObjVal: 369.000000 Time: 12.128354 GAP: 0.000000

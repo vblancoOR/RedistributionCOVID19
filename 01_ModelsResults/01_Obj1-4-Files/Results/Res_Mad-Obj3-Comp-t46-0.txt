@@ -1,0 +1,20 @@
+	 Repartido Periodo 46: 0.000000
+	 Repartido Periodo 47: 0.000000
+	 Repartido Periodo 48: 0.000000
+	 Repartido Periodo 49: 0.000000
+Scenario 0
+	 Demandas Periodo 46: 980.000000 [0]
+	 Demandas Periodo 47: 945.000000 [0]
+	 Demandas Periodo 48: 897.000000 [0]
+	 Demandas Periodo 49: 872.000000 [0]
+Scenario 1
+	 Demandas Periodo 46: 1265.000000 [0]
+	 Demandas Periodo 47: 1220.000000 [0]
+	 Demandas Periodo 48: 1166.000000 [0]
+	 Demandas Periodo 49: 1131.000000 [0]
+Scenario 2
+	 Demandas Periodo 46: 757.000000 [0]
+	 Demandas Periodo 47: 739.000000 [0]
+	 Demandas Periodo 48: 702.000000 [0]
+	 Demandas Periodo 49: 685.000000 [0]
+ObjVal: 0.000000 Time: 13.709050 GAP: 0.000000

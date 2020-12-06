@@ -1,0 +1,20 @@
+	 Repartido Periodo 4: 0.000000
+	 Repartido Periodo 5: 0.000000
+	 Repartido Periodo 6: 0.000000
+	 Repartido Periodo 7: 0.000000
+Scenario 0
+	 Demandas Periodo 4: 133.000000 [0]
+	 Demandas Periodo 5: 180.000000 [0]
+	 Demandas Periodo 6: 180.000000 [0]
+	 Demandas Periodo 7: 255.000000 [0]
+Scenario 1
+	 Demandas Periodo 4: 188.000000 [0]
+	 Demandas Periodo 5: 244.000000 [0]
+	 Demandas Periodo 6: 253.000000 [0]
+	 Demandas Periodo 7: 347.000000 [0]
+Scenario 2
+	 Demandas Periodo 4: 129.000000 [0]
+	 Demandas Periodo 5: 153.000000 [0]
+	 Demandas Periodo 6: 158.000000 [0]
+	 Demandas Periodo 7: 217.000000 [0]
+ObjVal: 0.000000 Time: 11.931953 GAP: 0.000000
