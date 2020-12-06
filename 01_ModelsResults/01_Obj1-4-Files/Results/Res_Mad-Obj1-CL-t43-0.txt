@@ -1,0 +1,41 @@
+Period 43 	 [116, 136] 0.11 days. [1] R: 0
+Period 43 	 [116, 141] 0.11 days. [1] R: 0
+Period 43 	 [117, 116, 111] 0.13 days. [3] R: 0
+Period 43 	 [118, 116, 111] 0.15 days. [5] R: 0
+Period 43 	 [124, 116, 148] 0.12 days. [1] R: 0
+Period 43 	 [128, 116, 148] 0.15 days. [2] R: 0
+Period 43 	 [138, 116, 111] 0.14 days. [1] R: 0
+Period 43 	 [146, 116] 0.10 days. [1] R: 0
+Period 43 	 [147, 116, 111] 0.15 days. [2] R: 0
+Period 44 	 [106, 116, 149] 0.17 days. [1] R: 0
+Period 44 	 [107, 116, 149] 0.14 days. [1] R: 0
+Period 44 	 [114, 116, 149] 0.14 days. [1] R: 0
+Period 44 	 [117, 116, 136] 0.12 days. [3] R: 0
+Period 44 	 [121, 116, 149] 0.12 days. [1] R: 0
+Period 44 	 [123, 116, 149] 0.12 days. [1] R: 0
+Period 44 	 [126, 116, 149] 0.14 days. [1] R: 0
+Period 44 	 [127, 116, 149] 0.15 days. [2] R: 0
+Period 44 	 [147, 116, 136] 0.13 days. [1] R: 0
+Period 44 	 [148, 116, 136] 0.12 days. [3] R: 3
+Period 44 	 [152, 116, 136] 0.12 days. [1] R: 0
+Period 45 	 [107, 116, 152] 0.15 days. [1] R: 0
+	 Repartido Periodo 43: 16.999999
+	 Repartido Periodo 44: 17.000001
+	 Repartido Periodo 45: 1.000000
+	 Repartido Periodo 46: 0.000000
+Scenario 0
+	 Demandas Periodo 43: 1106.000000 [0]
+	 Demandas Periodo 44: 1080.000000 [0]
+	 Demandas Periodo 45: 1020.000000 [0]
+	 Demandas Periodo 46: 980.000000 [0]
+Scenario 1
+	 Demandas Periodo 43: 1426.000000 [0]
+	 Demandas Periodo 44: 1390.000000 [0]
+	 Demandas Periodo 45: 1319.000000 [0]
+	 Demandas Periodo 46: 1265.000000 [0]
+Scenario 2
+	 Demandas Periodo 43: 864.000000 [0]
+	 Demandas Periodo 44: 840.000000 [0]
+	 Demandas Periodo 45: 795.000000 [0]
+	 Demandas Periodo 46: 757.000000 [0]
+ObjVal: 0.000000 Time: 15.993710 GAP: 0.000000

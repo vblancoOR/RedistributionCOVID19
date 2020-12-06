@@ -1,0 +1,39 @@
+Period 19 	 [116, 106] 0.16 days. [1] R: 0
+Period 19 	 [116, 118] 0.12 days. [3] R: 0
+Period 19 	 [116, 119] 0.11 days. [2] R: 0
+Period 19 	 [116, 124] 0.11 days. [1] R: 0
+Period 19 	 [120, 116, 118] 0.13 days. [4] R: 0
+Period 19 	 [138, 116, 106] 0.17 days. [1] R: 0
+Period 19 	 [138, 116, 144] 0.12 days. [2] R: 0
+Period 19 	 [141, 116, 115] 0.13 days. [1] R: 0
+Period 19 	 [155, 116, 126] 0.16 days. [1] R: 0
+Period 20 	 [116, 124] 0.11 days. [1] R: 0
+Period 20 	 [116, 126] 0.13 days. [1] R: 0
+Period 20 	 [140, 116, 126] 0.14 days. [1] R: 0
+Period 21 	 [116, 118] 0.12 days. [1] R: 0
+Period 21 	 [116, 119] 0.11 days. [3] R: 0
+Period 21 	 [141, 116, 118] 0.13 days. [1] R: 0
+Period 21 	 [144, 116, 118] 0.13 days. [1] R: 2
+Period 21 	 [144, 116, 122] 0.11 days. [1] R: 2
+Period 21 	 [150, 116, 127] 0.16 days. [1] R: 0
+Period 21 	 [156, 116, 121] 0.16 days. [1] R: 0
+	 Repartido Periodo 19: 17.000000
+	 Repartido Periodo 20: 3.000000
+	 Repartido Periodo 21: 9.000000
+	 Repartido Periodo 22: 0.000000
+Scenario 0
+	 Demandas Periodo 19: 1306.000000 [0]
+	 Demandas Periodo 20: 1400.000000 [11]
+	 Demandas Periodo 21: 1428.000000 [0]
+	 Demandas Periodo 22: 1459.000000 [22]
+Scenario 1
+	 Demandas Periodo 19: 1680.000000 [0]
+	 Demandas Periodo 20: 1798.000000 [11]
+	 Demandas Periodo 21: 1839.000000 [0]
+	 Demandas Periodo 22: 1886.000000 [22]
+Scenario 2
+	 Demandas Periodo 19: 1010.000000 [0]
+	 Demandas Periodo 20: 1091.000000 [11]
+	 Demandas Periodo 21: 1105.000000 [0]
+	 Demandas Periodo 22: 1138.000000 [22]
+ObjVal: 26.000000 Time: 24.471674 GAP: 0.000000

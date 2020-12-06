@@ -1,0 +1,54 @@
+Period 46 	 [116, 141] 0.11 days. [6] R: 0
+Period 46 	 [106, 116, 140] 0.17 days. [5] R: 0
+Period 46 	 [107, 116, 134] 0.17 days. [4] R: 0
+Period 46 	 [110, 116, 134] 0.20 days. [2] R: 0
+Period 46 	 [111, 116, 134] 0.16 days. [8] R: 0
+Period 46 	 [111, 116, 140] 0.14 days. [1] R: 0
+Period 46 	 [112, 116, 134] 0.18 days. [5] R: 0
+Period 46 	 [113, 116, 137] 0.14 days. [5] R: 0
+Period 46 	 [114, 116, 137] 0.14 days. [4] R: 0
+Period 46 	 [115, 116, 134] 0.15 days. [6] R: 0
+Period 46 	 [117, 116, 135] 0.16 days. [7] R: 0
+Period 46 	 [117, 116, 152] 0.11 days. [1] R: 0
+Period 46 	 [118, 116, 137] 0.13 days. [8] R: 0
+Period 46 	 [118, 116, 141] 0.13 days. [8] R: 0
+Period 46 	 [119, 116, 137] 0.12 days. [12] R: 0
+Period 46 	 [121, 116, 152] 0.12 days. [6] R: 0
+Period 46 	 [122, 116, 140] 0.11 days. [6] R: 0
+Period 46 	 [123, 116, 152] 0.12 days. [5] R: 0
+Period 46 	 [124, 116, 152] 0.12 days. [10] R: 0
+Period 46 	 [125, 116, 148] 0.13 days. [1] R: 0
+Period 46 	 [126, 116, 141] 0.14 days. [6] R: 0
+Period 46 	 [127, 116, 140] 0.16 days. [4] R: 0
+Period 46 	 [128, 116, 152] 0.15 days. [5] R: 0
+Period 46 	 [129, 116, 137] 0.16 days. [2] R: 0
+Period 46 	 [131, 116, 134] 0.15 days. [1] R: 0
+Period 46 	 [132, 116, 134] 0.18 days. [2] R: 0
+Period 46 	 [136, 116, 141] 0.12 days. [8] R: 0
+Period 46 	 [149, 116, 137] 0.12 days. [6] R: 0
+Period 46 	 [149, 116, 152] 0.11 days. [1] R: 0
+Period 46 	 [156, 116, 142] 0.15 days. [1] R: 0
+Period 47 	 [109, 116, 156] 0.20 days. [1] R: 0
+Period 47 	 [123, 116, 117] 0.11 days. [2] R: 0
+Period 47 	 [149, 116, 151] 0.11 days. [1] R: 0
+Period 47 	 [154, 116, 151] 0.15 days. [1] R: 0
+	 Repartido Periodo 46: 146.000000
+	 Repartido Periodo 47: 5.000000
+	 Repartido Periodo 48: 0.000000
+	 Repartido Periodo 49: 0.000000
+Scenario 0
+	 Demandas Periodo 46: 980.000000 [0]
+	 Demandas Periodo 47: 945.000000 [0]
+	 Demandas Periodo 48: 897.000000 [0]
+	 Demandas Periodo 49: 872.000000 [0]
+Scenario 1
+	 Demandas Periodo 46: 1265.000000 [0]
+	 Demandas Periodo 47: 1220.000000 [0]
+	 Demandas Periodo 48: 1166.000000 [0]
+	 Demandas Periodo 49: 1131.000000 [0]
+Scenario 2
+	 Demandas Periodo 46: 757.000000 [0]
+	 Demandas Periodo 47: 739.000000 [0]
+	 Demandas Periodo 48: 702.000000 [0]
+	 Demandas Periodo 49: 685.000000 [0]
+ObjVal: 0.000000 Time: 20.664075 GAP: 0.000000

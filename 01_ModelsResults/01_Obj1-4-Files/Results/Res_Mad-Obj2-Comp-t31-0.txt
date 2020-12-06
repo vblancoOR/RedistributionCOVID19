@@ -1,0 +1,29 @@
+Period 31 	 [108, 119] 1.08 days. [1] R: 0
+Period 31 	 [108, 122] 1.08 days. [1] R: 0
+Period 31 	 [108, 124] 1.07 days. [3] R: 0
+Period 31 	 [116, 122] 1.00 days. [1] R: 0
+Period 32 	 [108, 130] 1.14 days. [1] R: 0
+Period 32 	 [113, 130] 1.09 days. [1] R: 0
+Period 32 	 [116, 130] 1.09 days. [2] R: 0
+Period 32 	 [148, 130] 1.09 days. [1] R: 0
+Period 32 	 [154, 130] 1.08 days. [1] R: 0
+	 Repartido Periodo 31: 6.000000
+	 Repartido Periodo 32: 6.000000
+	 Repartido Periodo 33: 0.000000
+	 Repartido Periodo 34: 0.000000
+Scenario 0
+	 Demandas Periodo 31: 1448.000000 [0]
+	 Demandas Periodo 32: 1432.000000 [135]
+	 Demandas Periodo 33: 1400.000000 [0]
+	 Demandas Periodo 34: 1380.000000 [0]
+Scenario 1
+	 Demandas Periodo 31: 1866.000000 [0]
+	 Demandas Periodo 32: 1836.000000 [135]
+	 Demandas Periodo 33: 1800.000000 [0]
+	 Demandas Periodo 34: 1774.000000 [0]
+Scenario 2
+	 Demandas Periodo 31: 1126.000000 [0]
+	 Demandas Periodo 32: 1108.000000 [135]
+	 Demandas Periodo 33: 1089.000000 [0]
+	 Demandas Periodo 34: 1071.000000 [0]
+ObjVal: 9.000000 Time: 12.527900 GAP: 0.000000

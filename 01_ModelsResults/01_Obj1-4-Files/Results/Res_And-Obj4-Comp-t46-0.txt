@@ -1,0 +1,32 @@
+Period 46 	 [8, 2] 1.57 days. [3] R: 0
+Period 46 	 [26, 37] 1.17 days. [1] R: 0
+Period 46 	 [27, 58] 1.37 days. [1] R: 0
+Period 46 	 [28, 83] 1.26 days. [2] R: 0
+Period 46 	 [29, 2] 1.31 days. [12] R: 0
+Period 46 	 [29, 62] 1.52 days. [1] R: 0
+Period 46 	 [29, 86] 1.23 days. [1] R: 0
+Period 46 	 [31, 37] 1.44 days. [1] R: 0
+Period 46 	 [46, 30] 1.51 days. [1] R: 0
+Period 46 	 [55, 2] 1.64 days. [1] R: 0
+Period 47 	 [62, 97] 1.19 days. [1] R: 0
+Period 47 	 [86, 97] 1.34 days. [1] R: 0
+	 Repartido Periodo 46: 24.000000
+	 Repartido Periodo 47: 2.000000
+	 Repartido Periodo 48: 0.000000
+	 Repartido Periodo 49: 0.000000
+Scenario 0
+	 Demandas Periodo 46: 421.000000 [0]
+	 Demandas Periodo 47: 377.000000 [0]
+	 Demandas Periodo 48: 349.000000 [0]
+	 Demandas Periodo 49: 237.000000 [0]
+Scenario 1
+	 Demandas Periodo 46: 492.000000 [0]
+	 Demandas Periodo 47: 441.000000 [0]
+	 Demandas Periodo 48: 428.000000 [0]
+	 Demandas Periodo 49: 323.000000 [0]
+Scenario 2
+	 Demandas Periodo 46: 416.000000 [0]
+	 Demandas Periodo 47: 389.000000 [0]
+	 Demandas Periodo 48: 371.000000 [0]
+	 Demandas Periodo 49: 269.000000 [0]
+ObjVal: 16.333333 Time: 170.001061 GAP: 0.000000
