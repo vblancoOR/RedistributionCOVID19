@@ -1,0 +1,22 @@
+Period 19 	 [40, 105] 1.31 days. [3] R: 0
+Period 19 	 [103, 1] 1.68 days. [2] R: 0
+	 Repartido Periodo 19: 5.000000
+	 Repartido Periodo 20: 0.000000
+	 Repartido Periodo 21: 0.000000
+	 Repartido Periodo 22: 0.000000
+Scenario 0
+	 Demandas Periodo 19: 143.000000 [0]
+	 Demandas Periodo 20: 170.000000 [0]
+	 Demandas Periodo 21: 199.000000 [0]
+	 Demandas Periodo 22: 218.000000 [0]
+Scenario 1
+	 Demandas Periodo 19: 203.000000 [0]
+	 Demandas Periodo 20: 226.000000 [0]
+	 Demandas Periodo 21: 275.000000 [0]
+	 Demandas Periodo 22: 281.000000 [0]
+Scenario 2
+	 Demandas Periodo 19: 189.000000 [0]
+	 Demandas Periodo 20: 205.000000 [0]
+	 Demandas Periodo 21: 244.000000 [0]
+	 Demandas Periodo 22: 250.000000 [0]
+ObjVal: 1.333333 Time: 158.564905 GAP: 0.000000

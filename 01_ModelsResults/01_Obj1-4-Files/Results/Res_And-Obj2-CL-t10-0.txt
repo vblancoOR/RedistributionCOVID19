@@ -1,0 +1,97 @@
+Period 10 	 [2, 33, 49, 52] 0.89 days. [1] R: 0
+Period 10 	 [0, 2, 33, 24] 1.18 days. [3] R: 0
+Period 10 	 [1, 2, 33, 12, 11] 0.97 days. [13] R: 0
+Period 10 	 [1, 2, 33, 37, 34] 0.79 days. [3] R: 0
+Period 10 	 [4, 2, 33, 12] 1.01 days. [16] R: 0
+Period 10 	 [56, 2, 33, 37, 79] 0.79 days. [2] R: 0
+Period 10 	 [56, 2, 33, 49, 102] 0.99 days. [3] R: 0
+Period 10 	 [57, 2, 33, 19, 22] 0.97 days. [5] R: 0
+Period 10 	 [5, 6, 33, 49] 1.11 days. [15] R: 0
+Period 10 	 [7, 6, 33, 12] 0.86 days. [2] R: 0
+Period 10 	 [9, 6, 33, 37, 40] 0.75 days. [1] R: 0
+Period 10 	 [10, 6, 33, 29] 0.86 days. [14] R: 0
+Period 10 	 [59, 6, 33, 49, 102] 0.94 days. [3] R: 0
+Period 10 	 [60, 6, 33, 37, 92] 0.81 days. [1] R: 0
+Period 10 	 [65, 6, 33, 12, 72] 0.87 days. [1] R: 0
+Period 10 	 [67, 6, 33, 12, 11] 0.94 days. [4] R: 0
+Period 10 	 [68, 6, 33, 12, 15] 0.96 days. [6] R: 0
+Period 10 	 [68, 6, 33, 12, 16] 0.96 days. [1] R: 0
+Period 10 	 [68, 6, 33, 49, 102] 0.99 days. [1] R: 0
+Period 10 	 [69, 6, 66] 0.28 days. [1] R: 0
+Period 10 	 [12, 33, 6, 66] 0.76 days. [9] R: 0
+Period 10 	 [12, 15] 0.20 days. [7] R: 0
+Period 10 	 [12, 33, 37, 35] 0.47 days. [16] R: 0
+Period 10 	 [13, 12, 33, 49] 0.82 days. [8] R: 0
+Period 10 	 [71, 12] 0.10 days. [2] R: 0
+Period 10 	 [20, 19, 33, 49] 0.85 days. [3] R: 0
+Period 10 	 [73, 19, 33, 12, 11] 0.76 days. [5] R: 0
+Period 10 	 [74, 19, 33, 24] 0.94 days. [6] R: 0
+Period 10 	 [24, 33, 2] 1.05 days. [9] R: 0
+Period 10 	 [23, 24, 78] 0.15 days. [3] R: 0
+Period 10 	 [25, 24, 33, 37, 35] 0.96 days. [10] R: 0
+Period 10 	 [75, 24, 33, 19] 0.94 days. [4] R: 0
+Period 10 	 [77, 24, 33, 12] 0.93 days. [3] R: 0
+Period 10 	 [28, 29, 33, 19, 22] 0.83 days. [5] R: 0
+Period 10 	 [30, 29, 33, 6, 8] 1.10 days. [4] R: 0
+Period 10 	 [32, 29, 33, 19] 0.77 days. [6] R: 0
+Period 10 	 [37, 79] 0.13 days. [1] R: 0
+Period 10 	 [33, 29] 0.30 days. [10] R: 0
+Period 10 	 [36, 37, 40] 0.12 days. [18] R: 0
+Period 10 	 [36, 37, 33, 49] 0.64 days. [15] R: 0
+Period 10 	 [38, 37, 33, 2, 3] 0.91 days. [20] R: 0
+Period 10 	 [83, 37, 33, 49] 0.64 days. [10] R: 0
+Period 10 	 [84, 37, 33, 6] 0.71 days. [4] R: 0
+Period 10 	 [87, 37, 33, 49] 0.65 days. [16] R: 0
+Period 10 	 [88, 37, 33, 12] 0.54 days. [10] R: 0
+Period 10 	 [96, 37, 33, 6, 8] 0.92 days. [5] R: 0
+Period 10 	 [49, 52] 0.11 days. [1] R: 0
+Period 10 	 [42, 49, 50] 0.13 days. [3] R: 0
+Period 10 	 [44, 49, 50] 0.13 days. [1] R: 0
+Period 10 	 [45, 49, 33, 19, 21] 1.03 days. [1] R: 0
+Period 10 	 [45, 49] 0.27 days. [1] R: 0
+Period 10 	 [53, 49, 33, 19] 0.77 days. [7] R: 0
+Period 10 	 [54, 49, 33, 12] 0.75 days. [4] R: 0
+Period 10 	 [97, 49, 33, 19, 18] 0.78 days. [15] R: 0
+Period 10 	 [98, 49, 33, 37, 40] 0.68 days. [6] R: 0
+Period 10 	 [98, 49, 33, 37, 80] 0.80 days. [6] R: 0
+Period 10 	 [100, 49, 33, 37, 85] 0.64 days. [9] R: 0
+Period 10 	 [100, 49, 52] 0.11 days. [1] R: 0
+Period 10 	 [103, 49, 33, 37, 79] 0.68 days. [7] R: 0
+Period 10 	 [103, 49, 104] 0.11 days. [1] R: 0
+Period 10 	 [105, 49, 33, 19, 18] 0.76 days. [3] R: 0
+Period 11 	 [3, 2, 4] 0.31 days. [16] R: 20
+Period 11 	 [3, 2, 33, 12, 11] 1.04 days. [1] R: 20
+Period 11 	 [6, 33, 49, 45] 1.00 days. [1] R: 4
+Period 11 	 [58, 6, 66] 0.31 days. [3] R: 0
+Period 11 	 [63, 6, 59] 0.15 days. [1] R: 0
+Period 11 	 [12, 33, 6, 8] 0.90 days. [20] R: 21
+Period 11 	 [16, 12, 33, 6, 59] 0.91 days. [1] R: 1
+Period 11 	 [72, 12, 33, 24, 25] 1.04 days. [2] R: 1
+Period 11 	 [21, 19, 33, 2] 0.98 days. [1] R: 0
+Period 11 	 [78, 24, 33, 49, 102] 1.10 days. [4] R: 3
+Period 11 	 [31, 29, 33, 49] 1.00 days. [2] R: 0
+Period 11 	 [92, 37, 33, 49] 0.74 days. [1] R: 1
+Period 11 	 [49, 33, 19, 17] 0.83 days. [11] R: 53
+Period 11 	 [49, 105] 0.10 days. [3] R: 53
+Period 11 	 [55, 49, 33, 6, 7] 1.02 days. [1] R: 0
+Period 11 	 [101, 49, 33, 6, 59] 0.94 days. [1] R: 0
+	 Repartido Periodo 10: 371.000000
+	 Repartido Periodo 11: 69.000000
+	 Repartido Periodo 12: 0.000000
+	 Repartido Periodo 13: 0.000000
+Scenario 0
+	 Demandas Periodo 10: 14.000000 [0]
+	 Demandas Periodo 11: 24.000000 [0]
+	 Demandas Periodo 12: 37.000000 [0]
+	 Demandas Periodo 13: 52.000000 [0]
+Scenario 1
+	 Demandas Periodo 10: 117.000000 [0]
+	 Demandas Periodo 11: 100.000000 [0]
+	 Demandas Periodo 12: 112.000000 [0]
+	 Demandas Periodo 13: 121.000000 [0]
+Scenario 2
+	 Demandas Periodo 10: 112.000000 [0]
+	 Demandas Periodo 11: 93.000000 [0]
+	 Demandas Periodo 12: 106.000000 [0]
+	 Demandas Periodo 13: 120.000000 [0]
+ObjVal: 1.333333 Time: 280.006701 GAP: 0.000000

@@ -1,0 +1,58 @@
+Period 40 	 [4, 2, 33, 37, 40] 0.92 days. [15] R: 0
+Period 40 	 [64, 6, 66] 0.18 days. [1] R: 0
+Period 40 	 [11, 12, 33, 6] 0.92 days. [2] R: 0
+Period 40 	 [71, 12, 33, 19] 0.65 days. [1] R: 0
+Period 40 	 [17, 19, 33, 49, 97] 0.95 days. [2] R: 0
+Period 40 	 [18, 19, 33, 37, 87] 0.54 days. [11] R: 0
+Period 40 	 [20, 19, 33, 2, 3] 1.03 days. [1] R: 0
+Period 40 	 [73, 19, 33, 37, 87] 0.55 days. [1] R: 0
+Period 40 	 [75, 24, 33, 37, 87] 0.83 days. [3] R: 0
+Period 40 	 [33, 29, 27] 0.36 days. [2] R: 0
+Period 40 	 [34, 37, 87] 0.14 days. [4] R: 0
+Period 40 	 [35, 37, 33, 6, 59] 0.75 days. [1] R: 0
+Period 40 	 [35, 37, 40] 0.16 days. [1] R: 0
+Period 40 	 [36, 37, 33, 49] 0.64 days. [20] R: 0
+Period 40 	 [38, 37, 33, 6, 67] 0.81 days. [13] R: 0
+Period 40 	 [39, 37, 33, 19] 0.67 days. [4] R: 0
+Period 40 	 [41, 37, 33, 6, 66] 0.82 days. [2] R: 0
+Period 40 	 [41, 37, 33, 29, 26] 0.69 days. [2] R: 0
+Period 40 	 [82, 37, 33, 6, 66] 0.76 days. [5] R: 0
+Period 40 	 [84, 37, 33, 6, 5] 0.89 days. [1] R: 0
+Period 40 	 [89, 37, 33, 6, 66] 0.84 days. [3] R: 0
+Period 40 	 [89, 37, 33, 24, 76] 0.91 days. [1] R: 0
+Period 40 	 [46, 49, 33, 37, 86] 0.74 days. [1] R: 0
+Period 40 	 [102, 49, 33, 12, 16] 0.85 days. [1] R: 0
+Period 40 	 [102, 49, 33, 19] 0.77 days. [6] R: 0
+Period 40 	 [102, 49, 33, 37, 80] 0.79 days. [1] R: 0
+Period 40 	 [103, 49, 33, 29, 30] 0.86 days. [1] R: 0
+Period 41 	 [6, 33, 37, 40] 0.63 days. [2] R: 2
+Period 41 	 [66, 6, 33, 49, 44] 0.99 days. [4] R: 11
+Period 41 	 [11, 12, 33, 49, 99] 0.86 days. [1] R: 0
+Period 41 	 [16, 12, 33, 37, 40] 0.64 days. [2] R: 1
+Period 41 	 [29, 33, 6, 58] 0.91 days. [4] R: 0
+Period 41 	 [30, 29, 33, 6, 63] 0.96 days. [1] R: 1
+Period 41 	 [37, 33, 6, 5] 0.78 days. [3] R: 0
+Period 41 	 [87, 37, 82] 0.12 days. [5] R: 19
+Period 41 	 [49, 44] 0.12 days. [16] R: 20
+Period 41 	 [46, 49, 33, 37, 38] 0.81 days. [1] R: 0
+Period 42 	 [63, 6, 33, 49, 44] 0.99 days. [1] R: 1
+	 Repartido Periodo 40: 106.000000
+	 Repartido Periodo 41: 39.000000
+	 Repartido Periodo 42: 1.000000
+	 Repartido Periodo 43: 0.000000
+Scenario 0
+	 Demandas Periodo 40: 527.000000 [259]
+	 Demandas Periodo 41: 506.000000 [0]
+	 Demandas Periodo 42: 487.000000 [0]
+	 Demandas Periodo 43: 473.000000 [0]
+Scenario 1
+	 Demandas Periodo 40: 599.000000 [259]
+	 Demandas Periodo 41: 573.000000 [0]
+	 Demandas Periodo 42: 550.000000 [0]
+	 Demandas Periodo 43: 542.000000 [0]
+Scenario 2
+	 Demandas Periodo 40: 519.000000 [259]
+	 Demandas Periodo 41: 497.000000 [0]
+	 Demandas Periodo 42: 478.000000 [0]
+	 Demandas Periodo 43: 459.000000 [0]
+ObjVal: 1.333333 Time: 244.836090 GAP: 0.000000

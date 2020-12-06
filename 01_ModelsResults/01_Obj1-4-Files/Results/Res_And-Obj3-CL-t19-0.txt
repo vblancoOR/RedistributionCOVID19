@@ -1,0 +1,156 @@
+Period 19 	 [2, 33, 49, 104] 0.89 days. [1] R: 0
+Period 19 	 [0, 2, 33, 6, 58] 1.24 days. [3] R: 0
+Period 19 	 [6, 33, 37, 36] 0.61 days. [16] R: 0
+Period 19 	 [5, 6, 33, 49] 1.11 days. [1] R: 0
+Period 19 	 [7, 6, 33, 2, 3] 1.16 days. [20] R: 0
+Period 19 	 [7, 6, 33, 37, 79] 0.78 days. [4] R: 0
+Period 19 	 [7, 6, 33, 37, 82] 0.76 days. [5] R: 0
+Period 19 	 [7, 6, 33, 49, 44] 0.99 days. [1] R: 0
+Period 19 	 [7, 6, 33, 49, 101] 0.97 days. [1] R: 0
+Period 19 	 [8, 6, 67] 0.31 days. [1] R: 0
+Period 19 	 [8, 6, 33, 37, 79] 0.93 days. [3] R: 0
+Period 19 	 [9, 6, 33, 49, 51] 0.96 days. [1] R: 0
+Period 19 	 [10, 6, 33, 49, 97] 0.96 days. [3] R: 0
+Period 19 	 [60, 6, 33, 49, 97] 0.95 days. [1] R: 0
+Period 19 	 [66, 6, 33, 2, 4] 1.23 days. [1] R: 0
+Period 19 	 [68, 6, 33, 37, 36] 0.76 days. [1] R: 0
+Period 19 	 [12, 33, 6, 59] 0.72 days. [4] R: 0
+Period 19 	 [12, 70] 0.10 days. [10] R: 0
+Period 19 	 [12, 33, 29, 26] 0.63 days. [2] R: 0
+Period 19 	 [12, 33, 49] 0.65 days. [20] R: 0
+Period 19 	 [12, 33, 49, 55] 0.70 days. [1] R: 0
+Period 19 	 [11, 12, 33, 37, 79] 0.66 days. [2] R: 0
+Period 19 	 [11, 12, 33, 49, 97] 0.87 days. [1] R: 0
+Period 19 	 [11, 12, 33, 49, 103] 0.86 days. [1] R: 0
+Period 19 	 [13, 12, 33, 37, 39] 0.73 days. [1] R: 0
+Period 19 	 [16, 12, 33, 49, 100] 0.84 days. [1] R: 0
+Period 19 	 [71, 12, 33, 49] 0.75 days. [2] R: 0
+Period 19 	 [19, 33, 49] 0.66 days. [15] R: 0
+Period 19 	 [17, 19, 33, 49] 0.93 days. [9] R: 0
+Period 19 	 [20, 19, 33, 12] 0.74 days. [4] R: 0
+Period 19 	 [22, 19, 33, 49, 103] 0.85 days. [1] R: 0
+Period 19 	 [73, 19, 33, 49, 97] 0.79 days. [1] R: 0
+Period 19 	 [74, 19, 33, 6, 61] 0.86 days. [1] R: 0
+Period 19 	 [24, 33, 19, 18] 0.84 days. [2] R: 0
+Period 19 	 [24, 33, 37, 36] 0.72 days. [20] R: 0
+Period 19 	 [24, 33, 37, 83] 0.72 days. [1] R: 0
+Period 19 	 [24, 33, 37, 84] 0.72 days. [1] R: 0
+Period 19 	 [24, 33, 49] 0.94 days. [1] R: 0
+Period 19 	 [24, 33, 49, 44] 0.96 days. [20] R: 0
+Period 19 	 [24, 33, 49, 50] 0.95 days. [1] R: 0
+Period 19 	 [24, 33, 49, 103] 0.95 days. [3] R: 0
+Period 19 	 [23, 24] 0.10 days. [3] R: 0
+Period 19 	 [29, 33, 49] 0.68 days. [7] R: 0
+Period 19 	 [29, 33, 49, 97] 0.70 days. [13] R: 0
+Period 19 	 [28, 29, 33, 37, 36] 0.63 days. [1] R: 0
+Period 19 	 [37, 35] 0.14 days. [3] R: 0
+Period 19 	 [37, 40] 0.12 days. [2] R: 0
+Period 19 	 [37, 41] 0.17 days. [1] R: 0
+Period 19 	 [37, 33, 49] 0.54 days. [1] R: 0
+Period 19 	 [80, 37, 33, 2] 0.90 days. [5] R: 0
+Period 19 	 [87, 37, 33, 12] 0.54 days. [1] R: 0
+Period 19 	 [88, 37, 33, 12] 0.54 days. [2] R: 0
+Period 19 	 [45, 49, 33, 12] 0.92 days. [1] R: 0
+Period 19 	 [52, 49, 33, 12] 0.76 days. [15] R: 0
+Period 19 	 [98, 49, 33, 12] 0.77 days. [1] R: 0
+Period 19 	 [102, 49, 33, 12] 0.76 days. [1] R: 0
+Period 19 	 [105, 49, 33, 12] 0.76 days. [2] R: 0
+Period 20 	 [2, 33, 6, 9] 0.97 days. [1] R: 5
+Period 20 	 [2, 33, 12, 72] 0.77 days. [16] R: 5
+Period 20 	 [2, 33, 19, 18] 0.77 days. [4] R: 5
+Period 20 	 [2, 33, 24, 76] 1.06 days. [1] R: 5
+Period 20 	 [2, 33, 37, 41] 0.72 days. [20] R: 5
+Period 20 	 [2, 33, 37, 85] 0.66 days. [10] R: 5
+Period 20 	 [2, 33, 37, 96] 0.68 days. [6] R: 5
+Period 20 	 [2, 33, 49, 46] 0.97 days. [1] R: 5
+Period 20 	 [2, 33, 49, 51] 0.88 days. [1] R: 5
+Period 20 	 [4, 2, 33, 12, 16] 1.10 days. [1] R: 0
+Period 20 	 [6, 33, 37, 34] 0.64 days. [2] R: 0
+Period 20 	 [6, 33, 37, 35] 0.64 days. [1] R: 0
+Period 20 	 [59, 6, 33, 19, 74] 0.83 days. [1] R: 4
+Period 20 	 [59, 6, 33, 37, 80] 0.85 days. [1] R: 4
+Period 20 	 [59, 6, 33, 49, 48] 1.10 days. [1] R: 4
+Period 20 	 [12, 33, 6, 9] 0.74 days. [17] R: 27
+Period 20 	 [12, 33, 19, 17] 0.72 days. [12] R: 27
+Period 20 	 [12, 33, 19, 74] 0.55 days. [1] R: 27
+Period 20 	 [12, 33, 37, 36] 0.43 days. [1] R: 27
+Period 20 	 [12, 33, 37, 80] 0.57 days. [4] R: 27
+Period 20 	 [12, 33, 37, 89] 0.52 days. [1] R: 27
+Period 20 	 [12, 33, 37, 96] 0.45 days. [1] R: 27
+Period 20 	 [12, 33, 49, 99] 0.66 days. [7] R: 27
+Period 20 	 [24, 33, 6, 65] 1.05 days. [1] R: 3
+Period 20 	 [24, 33, 19, 74] 0.84 days. [11] R: 3
+Period 20 	 [24, 33, 37, 89] 0.81 days. [5] R: 3
+Period 20 	 [24, 33, 49, 50] 0.95 days. [1] R: 3
+Period 20 	 [24, 33, 49, 54] 0.94 days. [1] R: 3
+Period 20 	 [78, 24, 33, 37, 86] 0.88 days. [1] R: 0
+Period 20 	 [29, 33, 37, 40] 0.48 days. [2] R: 0
+Period 20 	 [26, 29, 33, 6, 10] 0.93 days. [1] R: 2
+Period 20 	 [27, 29, 33, 37, 89] 0.71 days. [1] R: 0
+Period 20 	 [33, 37, 34] 0.19 days. [2] R: 0
+Period 20 	 [38, 37, 41] 0.25 days. [4] R: 0
+Period 20 	 [84, 37, 33, 29, 32] 0.65 days. [1] R: 1
+Period 20 	 [87, 37, 33, 49, 51] 0.65 days. [1] R: 0
+Period 20 	 [49, 33, 6, 61] 0.86 days. [1] R: 55
+Period 20 	 [49, 33, 12, 15] 0.75 days. [1] R: 55
+Period 20 	 [49, 33, 12, 16] 0.74 days. [1] R: 55
+Period 20 	 [49, 33, 37, 34] 0.57 days. [2] R: 55
+Period 20 	 [49, 33, 37, 39] 0.67 days. [18] R: 55
+Period 20 	 [49, 48] 0.27 days. [1] R: 55
+Period 20 	 [49, 50] 0.11 days. [20] R: 55
+Period 20 	 [44, 49, 50] 0.13 days. [6] R: 21
+Period 20 	 [44, 49, 102] 0.12 days. [10] R: 21
+Period 20 	 [52, 49, 50] 0.12 days. [2] R: 0
+Period 20 	 [55, 49, 102] 0.16 days. [1] R: 1
+Period 20 	 [97, 49, 50] 0.13 days. [16] R: 19
+Period 20 	 [100, 49, 45] 0.27 days. [1] R: 1
+Period 20 	 [101, 49, 33, 6, 61] 0.96 days. [1] R: 1
+Period 20 	 [101, 49, 102] 0.11 days. [3] R: 1
+Period 20 	 [103, 49, 33, 19, 21] 0.87 days. [2] R: 5
+Period 20 	 [103, 49, 48] 0.28 days. [1] R: 5
+Period 20 	 [104, 49, 50] 0.12 days. [1] R: 1
+Period 21 	 [2, 33, 49, 51] 0.88 days. [1] R: 5
+Period 21 	 [9, 6, 33, 49, 105] 0.96 days. [1] R: 18
+Period 21 	 [61, 6, 33, 37] 0.74 days. [2] R: 3
+Period 21 	 [62, 6, 33, 19, 18] 0.86 days. [1] R: 0
+Period 21 	 [14, 12, 33, 49, 103] 0.88 days. [1] R: 0
+Period 21 	 [16, 12, 33, 2, 1] 0.96 days. [1] R: 1
+Period 21 	 [21, 19, 33, 6, 64] 0.97 days. [2] R: 2
+Period 21 	 [86, 37, 33, 2, 4] 0.91 days. [1] R: 1
+Period 21 	 [86, 37, 33, 49, 44] 0.67 days. [1] R: 1
+Period 21 	 [92, 37, 33, 19, 22] 0.72 days. [1] R: 0
+Period 21 	 [49, 103] 0.11 days. [3] R: 56
+Period 21 	 [49, 105] 0.10 days. [1] R: 56
+Period 21 	 [45, 49, 33, 37, 38] 0.90 days. [1] R: 1
+Period 21 	 [46, 49, 33, 29, 30] 0.94 days. [2] R: 1
+Period 21 	 [48, 49, 97] 0.29 days. [1] R: 2
+Period 21 	 [50, 49, 33, 2] 0.99 days. [20] R: 47
+Period 21 	 [50, 49, 33, 29, 26] 0.86 days. [1] R: 47
+Period 21 	 [50, 49, 97] 0.13 days. [15] R: 47
+Period 21 	 [102, 49, 33, 6, 63] 0.98 days. [1] R: 14
+Period 21 	 [102, 49, 33, 37, 79] 0.68 days. [1] R: 14
+Period 21 	 [102, 49, 55] 0.16 days. [1] R: 14
+Period 21 	 [102, 49, 98] 0.12 days. [1] R: 14
+Period 21 	 [102, 49, 103] 0.11 days. [5] R: 14
+Period 21 	 [102, 49, 104] 0.11 days. [1] R: 14
+Period 21 	 [102, 49, 105] 0.11 days. [1] R: 14
+	 Repartido Periodo 19: 247.000000
+	 Repartido Periodo 20: 231.000000
+	 Repartido Periodo 21: 67.000000
+	 Repartido Periodo 22: 0.000000
+Scenario 0
+	 Demandas Periodo 19: 143.000000 [0]
+	 Demandas Periodo 20: 170.000000 [0]
+	 Demandas Periodo 21: 199.000000 [0]
+	 Demandas Periodo 22: 218.000000 [0]
+Scenario 1
+	 Demandas Periodo 19: 203.000000 [0]
+	 Demandas Periodo 20: 226.000000 [0]
+	 Demandas Periodo 21: 275.000000 [0]
+	 Demandas Periodo 22: 281.000000 [0]
+Scenario 2
+	 Demandas Periodo 19: 189.000000 [0]
+	 Demandas Periodo 20: 205.000000 [0]
+	 Demandas Periodo 21: 244.000000 [0]
+	 Demandas Periodo 22: 250.000000 [0]
+ObjVal: 10.000000 Time: 284.059734 GAP: 0.000000

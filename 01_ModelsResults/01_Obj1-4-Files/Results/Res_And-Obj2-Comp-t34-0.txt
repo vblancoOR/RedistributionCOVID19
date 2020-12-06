@@ -1,0 +1,23 @@
+Period 34 	 [19, 74] 1.00 days. [20] R: 0
+Period 34 	 [75, 103] 1.18 days. [1] R: 0
+Period 35 	 [24, 103] 1.18 days. [2] R: 0
+	 Repartido Periodo 34: 21.000000
+	 Repartido Periodo 35: 2.000000
+	 Repartido Periodo 36: 0.000000
+	 Repartido Periodo 37: 0.000000
+Scenario 0
+	 Demandas Periodo 34: 545.000000 [0]
+	 Demandas Periodo 35: 559.000000 [0]
+	 Demandas Periodo 36: 543.000000 [0]
+	 Demandas Periodo 37: 526.000000 [0]
+Scenario 1
+	 Demandas Periodo 34: 627.000000 [0]
+	 Demandas Periodo 35: 630.000000 [0]
+	 Demandas Periodo 36: 621.000000 [0]
+	 Demandas Periodo 37: 599.000000 [0]
+Scenario 2
+	 Demandas Periodo 34: 530.000000 [0]
+	 Demandas Periodo 35: 531.000000 [0]
+	 Demandas Periodo 36: 540.000000 [0]
+	 Demandas Periodo 37: 535.000000 [0]
+ObjVal: 1.333333 Time: 89.400676 GAP: 0.000000

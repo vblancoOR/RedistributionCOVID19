@@ -1,0 +1,21 @@
+Period 10 	 [50, 104] 1.00 days. [1] R: 0
+	 Repartido Periodo 10: 1.000000
+	 Repartido Periodo 11: 0.000000
+	 Repartido Periodo 12: 0.000000
+	 Repartido Periodo 13: 0.000000
+Scenario 0
+	 Demandas Periodo 10: 14.000000 [0]
+	 Demandas Periodo 11: 24.000000 [0]
+	 Demandas Periodo 12: 37.000000 [0]
+	 Demandas Periodo 13: 52.000000 [0]
+Scenario 1
+	 Demandas Periodo 10: 117.000000 [0]
+	 Demandas Periodo 11: 100.000000 [0]
+	 Demandas Periodo 12: 112.000000 [0]
+	 Demandas Periodo 13: 121.000000 [0]
+Scenario 2
+	 Demandas Periodo 10: 112.000000 [0]
+	 Demandas Periodo 11: 93.000000 [0]
+	 Demandas Periodo 12: 106.000000 [0]
+	 Demandas Periodo 13: 120.000000 [0]
+ObjVal: 1.333333 Time: 162.959015 GAP: 0.000000
