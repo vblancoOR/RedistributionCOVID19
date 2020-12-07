@@ -7,6 +7,6 @@ We show two different folders as results of our project.
 
 We have tried to put a common syntax in the names of the different files:
 * *Regions:* Mad = Madrid, And = Andalucía.
+* *Objectives:* Obj1-4 = Objectives from 1 to 4. Obj5-8 = Objectives for regret from 1 to 4.
 * *Graph structures:* CL = Logistic Center graph, Comp = Complete graph.
 * *Scenarios:* Sce0 = Real Scenario, Sce1 = Pessimistic Scenario, Sce2 = Optimistic Scenario.
-* *Objectives:* Obj1-4 = Objectives from 1 to 4. Obj5-8 = Objectives for regret from 1 to 4.
