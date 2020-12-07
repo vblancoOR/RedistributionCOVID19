@@ -1,5 +1,5 @@
 # RedistributionCOVID19
-Data collected for the project "Reallocating and Sharing Health Equipments in Sanitary Emergency Situations: The COVID-19 Case in Spain"
+Data collected for the project "Reallocating and Sharing Health Equipments in Sanitary Emergency Situations: The COVID-19 Case in Spain". For the interested readers can find our project in: [arXiv:2012.02062](https://arxiv.org/abs/2012.02062)
 
 We show two different folders as results of our project. 
 * **01_ModelsResults** contains the different results of our models described in the project.
