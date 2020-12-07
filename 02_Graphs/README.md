@@ -25,8 +25,9 @@ The syntax of the files is:
 where, *Type* can be AS, that is Available Stock, or NCD, Non-Covered Demand.
 
 <h3>Different Criteria</h3>
-We compare in this last section the regret version (dashed line) versus the not regret version (continuous line) of different objective functions.   
+We compare in this last section the regret version (dashed line) versus the not regret version (continuous line) of different objective functions.   <br>
 <br>
+
 The syntax of the files is:  
 *Type*-*Region*-*ObjectiveFunction-RegretFunction*-*Scenario*-*GraphStructure*.pdf  
 where, *Type* can be AS, that is Available Stock, or NCD, Non-Covered Demand.
