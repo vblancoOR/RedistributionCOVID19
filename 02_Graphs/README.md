@@ -13,7 +13,7 @@ We compare in this section the behavior of the redistribution through the time h
 * *PieCharts:* PieCharts are how the ExtraStock has been redistributed in Andalucía region. <br>
 
 <br>
-The syntax of the files is:  
+The syntax of the files is:  <br>
 *GraphType*-*Region*-*ObjectiveFunction*-*GraphStructure*.pdf  
 
 <h3>Complete Graph vs. Logistic Center Graph</h3>
