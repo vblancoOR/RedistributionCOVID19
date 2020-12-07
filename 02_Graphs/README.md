@@ -3,8 +3,10 @@
 <h3>Redistribution vs. No Redistribution</h3>
 We have the graphs by means of regions, graph structures and objectives, which compare  the non-covered demand, that is, the number of patients needing a ventilator that were not attended due to the lack of this resource, if the proposed redistribution is carried out, or not, in the differen scenarios. Thus, here we have two section which are described in the project: *Redistribution vs. No Redistribution* section, and *Comparison of Non-covered Demand by Scenarios* section.
 
+
 The syntax of the files is:
 AS_D_*Region*-*ObjectiveFunction*-*Scenario*-*GraphStructure*.pdf
+
 
 <h3>Comparison of Redistribution and Sharing Policies</h3>
 We compare in this section the behavior of the redistribution through the time horizon and regions. We have the amount of redistributed stock and the curves of scenario demands. In this folder, we have two different types of graphs:
