@@ -9,12 +9,12 @@ AS_D_*Region*-*ObjectiveFunction*-*Scenario*-*GraphStructure*.pdf
   
 <h3>Comparison of Redistribution and Sharing Policies</h3>
 We compare in this section the behavior of the redistribution through the time horizon and regions. We have the amount of redistributed stock and the curves of scenario demands. In this folder, we have two different types of graphs:  <br>
-+ BarGraphs: BarGraphs are the amount of redistributed stock and scenario demand curves.  <br>
-+ PieCharts: PieCharts are how the ExtraStock has been redistributed in Andalucía region. <br>
+* BarGraphs: BarGraphs are the amount of redistributed stock and scenario demand curves.  <br>
+* PieCharts: PieCharts are how the ExtraStock has been redistributed in Andalucía region. <br>
 
 <br>
 The syntax of the files is:  <br>
-*_GraphType*-*Region*-*ObjectiveFunction*-*GraphStructure*.pdf  
+*GraphType*-*Region*-*ObjectiveFunction*-*GraphStructure*.pdf  
 
 <h3>Complete Graph vs. Logistic Center Graph</h3>
 Here we include a comparison of the non-covered demand for the LC- and C-graphs by means of functions.  <br>
