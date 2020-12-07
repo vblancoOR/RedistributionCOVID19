@@ -15,5 +15,3 @@ The folder is organized by means of four folders:
 * *InitialStock:* Contains the files of the final of stock in each period which is the initial stock for the next period.
 * *Non-Covered-Demand:* Contains the files of negative and positive solution by periods of the non covered demand. If is negative we have available stock that could be shared with the other units. However, if it is positive, we have de Non Covered Demand by units.
 * *Results:* Contains the files of the results of our models. These files have the path of the shared available stock, the number of shared stock and the received stock. Finally we show the total shared equipments, the demands by scenarios, the Objective Value, the total time to be solved and if we have or not GAP.
-  
-In each folder, in the README.md, we show the sintaxis for the different files.
