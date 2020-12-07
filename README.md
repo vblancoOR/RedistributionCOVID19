@@ -10,3 +10,5 @@ We have tried to put a common syntax in the names of the different files:
 * *Objectives:* Obj1-4 = Objectives from 1 to 4. Obj5-8 = Objectives for regret from 1 to 4.
 * *Graph structures:* CL = Logistic Center graph, Comp = Complete graph.
 * *Scenarios:* Sce0 = Real Scenario, Sce1 = Pessimistic Scenario, Sce2 = Optimistic Scenario.
+
+We also share our result of datacollect for demands, extra stock and the hospitals and their location in **03_Data**.
