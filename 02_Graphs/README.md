@@ -1,7 +1,7 @@
 # Graphs
 
 <h3>Redistribution vs. No Redistribution</h3>
-We have the graphs by means of regions, graph structures and objectives, which compare  the non-covered demand, that is, the number of patients needing a ventilator that were not attended due to the lack of this resource, if the proposed redistribution is carried out, or not, in the differen scenarios. Thus, here we have two section which are described in the project: *Redistribution vs. No Redistribution* section, and *Comparison of Non-covered Demand by Scenarios* section.  <br>
+We have the graphs by means of regions, graph structures and objectives, which compare  the non-covered demand, that is, the number of patients needing a ventilator that were not attended due to the lack of this resource, if the proposed redistribution is carried out, or not, in the differen scenarios. Thus, here we have two section which are described in the project: _Redistribution vs. No Redistribution:_ section, and _Comparison of Non-covered Demand by Scenarios_ section.  <br>
   <br>
 
 The syntax of the files is:  
@@ -14,7 +14,7 @@ We compare in this section the behavior of the redistribution through the time h
 
 <br>
 The syntax of the files is:  <br>
-*GraphType*-*Region*-*ObjectiveFunction*-*GraphStructure*.pdf  
+_GraphType_-*Region*-*ObjectiveFunction*-*GraphStructure*.pdf  
 
 <h3>Complete Graph vs. Logistic Center Graph</h3>
 Here we include a comparison of the non-covered demand for the LC- and C-graphs by means of functions.  <br>
