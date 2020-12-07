@@ -33,4 +33,8 @@ The syntax of the files is:
 where, *Type* can be AS, that is Available Stock, or NCD, Non-Covered Demand.
 
 <h3>Extra Graphs</h3>
-In this folder we have uploaded more graphs used in our studies but we have not reported in our project.
+In this folder we have uploaded more graphs used in our studies but we have not reported in our project.<br>
+<br>
+* Different Criteria and C-Graph vs LC-Graph: Here there is a mix between two type of graph mentioned above.  <br>
+* All functiones: We have the 8 function explained in our project in a same graph differentiating between Available Stock and Non-Covered Demand.  <br>
+* Type Model: We put the regret functions (*TypeModel:Reg*) and not (*TypeModel:Rob*) in different graphs by meand Available Stock and Non-Covered Demand.  <br>
