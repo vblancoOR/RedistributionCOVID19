@@ -14,7 +14,7 @@ We compare in this section the behavior of the redistribution through the time h
 
 <br>
 The syntax of the files is:  
-*GraphType*-*Region*-*ObjectiveFunction*-*GraphStructure*.pdf
+*GraphType*-*Region*-*ObjectiveFunction*-*GraphStructure*.pdf  
 
 <h3>Complete Graph vs. Logistic Center Graph</h3>
 Here we include a comparison of the non-covered demand for the LC- and C-graphs by means of functions.  <br>
