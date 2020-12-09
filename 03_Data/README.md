@@ -9,7 +9,9 @@ government of Andalucía reported the accumulated demand of ICU. We estimated th
 in ICU and we assume that each of them stays in ICU 21 days (the average number of days the patients stay on a ICU bed during the first wave).
 
 <h3>Extra Stock</h3>
-During the first wave different national or regional governments have bought and received extra invasive mechanical ventilators as reported by some national newspapers in different days. Moreover, some extra stock has also been provided from the Spanish Government and private donations.
+During the first wave different national or regional governments have bought and received extra invasive mechanical ventilators as reported by some national newspapers in different days. Moreover, some extra stock has also been provided from the Spanish Government and private donations. Some of these paper are:
+
+* <https://www.libertaddigital.com/andalucia/2020-03-26/coronavirus-moreno-bonilla-tras-donar-respiradores-a-madrid-o-somos-espanoles-de-verdad-o-de-boquilla-1276654713/>
 
 <h3>Hospitals</h3>
 We compute the hospitals from the Catálogo Nacional de Hospitales (2019) of Spanish Government and the total beds for each hospital. We estimated the ICU bed with the proportion of ICU-beds in each province and region.
